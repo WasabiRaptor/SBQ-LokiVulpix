@@ -150,7 +150,7 @@
 	"charCreationPatch" : false,
 
 	"sbqCompatible" : true,
-	"sbqTFAny" : true,
+	"sbqTFAny" : false,
 
 	"sbqSettingsConfig": {
 		"includes" : [
