@@ -1,9 +1,9 @@
 {
 	"version" : 1,
-	"includes" : ["/humanoid/opensb/head.cosmetic.animation.<slot>"],
+	"includes" : ["/humanoid/opensb/head.cosmetic.animation"],
 	"animatedParts" : {
 		"parts" : {
-			"headCosmetic<slot>": {
+			"headCosmetic": {
 				"properties": {
 					"zLevel" : 19.0
 				},
