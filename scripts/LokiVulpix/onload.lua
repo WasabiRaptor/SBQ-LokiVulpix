@@ -30,6 +30,7 @@ local races = {
 	"sbq/Razumdar_/Raz",
 	"sbq/EloTheHobkin/Elo",
 	"sbq/NovaPolaris/Nova",
+	"sbq/Mojma/Mojma",
 }
 local charcreation_patch = {}
 local universe_server_patch = {}
