@@ -66,7 +66,9 @@
 							"pose" : "crawl"
 						}
 					}},
-					"sit": { "frames": 1, "cycle": 0, "mode": "end" },
+					"sit": { "frames": 1, "cycle": 0, "mode": "end", "properties" : {
+						"movementOffset" : [["reset"],	["translate",[-1.25,-2.125]]]
+					}},
 					"lay": { "frames": 1, "cycle": 0, "mode": "end" },
 
 					"walk": { "frames": 8, "cycle": 0.75, "mode": "loop" },
@@ -406,9 +408,14 @@
 
 					"interact" : [0,0] // this is the origin that the interaction radius propogates from
 				},
-				"portraitMode" : {
-					"head" : { "properties": {"offset":[-0.875,-1.5], "transforms":[["reset"],	["scale",[0.5,0.5]]]} },
-					"bust" : "head"
+				"partStates": {
+					"body" : {
+						"sit" : {"properties":{"offset":[0,3.375]}}
+					},
+					"portraitMode" : {
+						"head" : { "properties": {"offset":[-0.875,-1.5], "transforms":[["reset"],	["scale",[0.5,0.5]]]} },
+						"bust" : "head"
+					}
 				}
 			},
 			"backArm": {
@@ -684,7 +691,7 @@
 					"body": {
 						"idle": { "properties": { "image": "<humanoidPath><bodyFrameset>:<bellySize>-<personalityIdle>.<body_frame>" } },
 						"duck" : { "properties": { "image": "<humanoidPath><bodyFrameset>:<bellySize>-<body_state>.<body_frame>", "transformationGroups": [] } },
-						"sit": "duck",
+						"sit": { "properties": { "image": "<humanoidPath><bodyFrameset>:<bellySize>-<body_state>.<body_frame>", "transformationGroups": ["movementOffset"] } },
 						"lay" : "duck",
 						"walk" : { "properties": { "image": "<humanoidPath><bodyFrameset>:<bellySize>-idle.1.1" } },
 						"run" : "walk",
