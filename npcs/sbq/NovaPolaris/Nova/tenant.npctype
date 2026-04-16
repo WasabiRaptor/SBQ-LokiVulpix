@@ -106,7 +106,7 @@
 			// just copy and past here and then possibly edit further as you see fit
 			"defaultSettings" : {
 				"any":{ // the settings config can group things by entity type where the "any" table applies to everything
-					"breastsSelect" : "infuse",
+					"breastsSelect" : "infused",
 					"pussySelect" : "default",
 					"cockSelect" : "default",
 					"vorePrefs" : {
