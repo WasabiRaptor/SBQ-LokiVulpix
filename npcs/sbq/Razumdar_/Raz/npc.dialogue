@@ -6,104 +6,242 @@
 		"That was great <entityname>!\nI hope you like all this!"
 	],
 	"greeting": [
-		"Hi, how's it going.",
+		"What's up <entityName>?",
 		"Hey there!",
-		"Hi",
-		"Hello"
+		"Hi!",
+		"Hello!",
+		"What can I do for you?",
+		"Oh! <entityName>! Hi!",
+		"Hey <entityName>! How's it going?",
+		"Hello <entityName>! What can I do for you?",
+		"Hey there <entityName>! What can I do for you?",
+		"What's up <entityName>? How've you been?"
 	],
 	"greetingCrew": [
 		"Greetings Captain.",
 		"Hello Captain.",
-		"Captain."
+		"Captain.",
+		"Greetin's Cap!",
+		"Hello Cap!",
+		"Sup Cap?",
+		"What can I do for you Cap?",
+		"Hey Cap!",
+		"What do you need Captain?"
 	],
 	"greetingIntroduced": [
-		"Hi there <entityName>!"
+		"Hi there <entityName>!",
+		"Nice to meet you <entityName>!",
+		"Hello <entityName>! Nice to meet you!",
+		"Hey <entityName>! Nice to meet you!",
+		"Hi <entityName>! Nice to meet you!",
+		"Hello <entityName>! Pleasure to meet you!",
+		"Hey <entityName>! Pleasure to meet you!",
+		"Hi <entityName>! Pleasure to meet you!",
+		"What's up <entityName>?",
+		"Hey there <entityName>!"
 	],
 	"crewStay": [
 		"I'll be right here.",
 		"Staying here.",
-		"Yeah I'll stay."
+		"Yeah I'll stay.",
+		"Leaving me behind? Mkay then.",
+		"See you when you get back!",
+		"Good luck out there!"
 	],
 	"fullCrew": [
-		"I can't, you've got a full crew."
+		"I can't, you've got a full crew.",
+		"Crew's full!",
+		"Two's Company. Three's... A crowd.",
+		"Sorry, dont think there's enough space for all of us!",
+		"I think we're good with the crew we have right now!"
 	],
 	"crewFollow": [
 		"Right behind you!",
-		"Here we go!",
-		"Lets go!"
+		"Got your six!",
+		"Lets go!",
+		"Following you!",
+		"Lead the way!"
 	],
 	"rewardNotifyMoney": [
-		"This is nice, I think I'll give you some of my spare change.",
-		"I'll give you a few pixels for giving me a good time."
+		"Oh! Thanks for doing that for me. Here's a few Pix.",
+		"Here's a few pixels for giving me a good time.",
+		"Thanks for that! Here, have some Pix.",
+		"Thanks! Here, have some Pix for your troubles.",
+		"That was great! Here, have some Pix for your troubles.",
+		"Thanks for that! Here, have some Pix for your troubles.",
+		"Appreciate it! Here, have some Pix for your troubles.",
+		"Appreciate the hard work. Here! Have a few Pix for your troubles."
 	],
 	"rewardNotifyLowValueQuestRewards": [
 		"Hmm, I think you deserve something after this.",
-		"I think I'll give you some sort of small gift."
+		"I think I'll give you some sort of small gift.",
+		"Here's a little something for you.",
+		"Here's a small gift for you.",
+		"Here's a little something for your troubles.",
+		"Here's a small gift for your troubles.",
+		"Here's a little something for you, thanks for doing that for me.",
+		"Here's a small gift for you, thanks for doing that for me.",
+		"Thanks for taking care of that for me! I've got a small gift for you.",
+		"Thanks for taking care of that for me! I've got a little something for you.",
+		"A small gift for a job well done!"
 	],
 	"rewardNotifyMediumValueQuestRewards": [
-		"Maybe I've got something a bit better for you this time.",
-		"I've got another gift for you after this."
+		"I've got something a little nicer than normal for you.",
+		"I've got another gift for you after this.",
+		"I think you'll like this next gift.",
+		"This next gift is a little nicer than the last one.",
+		"This next gift is a little nicer than the last one, I hope you like it.",
+		"This next gift is a little nicer than the last one, thanks for doing that for me.",
+		"I think you'll like this next gift, thanks for doing that for me.",
+		"I appreciate you doing that for me, I think you'll like this next gift.",
+		"I got you something a little nicer for taking care of that for me."
 	],
 	"rewardNotifyHighValueQuestRewards": [
 		"I think you'll really like what I've gotten you.",
-		"My next gift will be really good heh."
+		"This next gift is quite the treat...",
+		"I've got something really nice for you after this.",
+		"This next gift is really nice, I hope you like it.",
+		"This next gift is really nice, thanks for doing that for me.",
+		"I think you'll really like this next gift, thanks for doing that for me.",
+		"I appreciate you doing that for me, I think you'll really like this next gift.",
+		"I got you something really nice for taking care of that for me.",
+		"Well done! I got you something really nice for that!",
+		"That was really impressive! I got you something really nice for that!",
+		"That was a lot of work. Here's something really nice for you!"
 	],
 	"oralVoreRequested": [
 		"You want me to eat you?",
 		"Alright, sure.",
 		"Yeah ok.",
-		"Sounds good."
+		"Sounds good.",
+		"I could use a snack~",
+		"Well arent you a treat!",
+		"Hehe, you look tasty~",
+		"Mmm~ You look like a delicious snack!",
+		"Yum~ I could go for a snack like you~",
+		"Oooh~ You look like a filling meal~",
+		"Ahhh~ You look like a nice belly filler~",
+		"Hehe~ I can't wait to feel you squirming in my belly~",
+		"Mmm~ I bet you'll make my belly feel so good~",
+		"Yesss~ I could use a nice filling snack like you~",
+		"Look at you, all tasty and ready to be eaten~",
+		"Hehe~ You're going to make a great belly snack~",
+		"Mmm~ I can already imagine how good you'll feel squirming in my belly~",
+		"Oooh~ I bet you'll make my belly feel so full and satisfied~",
+		"Ahhh~ I can't wait to have you wriggling around in my belly~",
+		"Hehe~ You're going to be the perfect snack to fill my belly~",
+		"Mmm~ I can already feel my belly rumbling for you~",
+		"Yesss~ I need a delicious snack like you to fill my belly~",
+		"Look at you, all squirmy and ready to be my belly snack~",
+		"Hehe~ I can't wait to feel you wiggling in my belly~",
+		"Mmm~ You're going to make my belly feel so good and full~",
+		"Oooh~ I bet you'll be the best belly filler I've ever had~",
+		"Ahhh~ I can already feel my belly rumbling just thinking about you~",
+		"Hehe~ You're going to be the perfect snack to satisfy my belly~",
+		"Mmm~ I need a tasty treat like you to fill my belly~",
+		"Yesss~ I can't wait to have you squirming in my belly~",
+		"Look at you, all delicious and ready to be my belly snack~",
+		"Hehe~ I can already imagine how good you'll feel wriggling in my belly~",
+		"Mmm~ I bet you'll make my belly feel so good and full~",
+		"Ahhh~ I can't wait to have you squirming around in my belly~",
+		"Hehe~ You're going to be the perfect snack to fill my belly~",
+		"Mmm~ I can already feel my belly rumbling just from the thought of you in there~",
+		"Yesss~ I need a delicious snack like you to satisfy my belly~"
 	],
 	"oralVoreRequestedAfter": [
-		"Mmmmmmm... good.",
+		"*Sluuuurp* Ahhh~ Delicious.",
 		"Tasty.",
 		"Nice and filling.",
-		"Not too bad."
+		"So filling~",
+		"You fill my belly quite nicely!",
+		"Mmm~ You make my belly feel so good~",
+		"Hehe~ I can feel you squirming in my belly~",
+		"Ahhh~ You make my belly feel so full and satisfied~",
+		"Mmm~ I love having you wriggling around in my belly~",
+		"Hehe~ You're the perfect snack to fill my belly~",
+		"Yesss~ My belly feels so good with you in there~",
+		"Mmm~ I can feel my belly rumbling happily with you inside~",
+		"Hehe~ I love feeling you wiggling in my belly~",
+		"Ahhh~ You make my belly feel so good and full~",
+		"Mmm~ You're the best belly filler I've ever had~",
+		"Hehe~ I can feel my belly rumbling just from having you in there~",
+		"Yesss~ My belly is so satisfied with you as my snack~",
+		"Mmm~ I love having you squirming in my belly~",
+		"Hehe~ You're the perfect snack to satisfy my belly~",
+		"Ahhh~ My belly feels so good with you in there~",
+		"Mmm~ I can feel my belly rumbling happily with you inside~",
+		"Hehe~ I love feeling you wriggling in my belly~",
+		"Ahhh~ You make my belly feel so good and full~",
+		"Ugh~ You're going to ruin my figure~"
 	],
 	"oralVoreInvalid": "There must be an error, oralVore is invalid",
 	"defaultNo": [
-		"Don't really feel like that right now.",
-		"Not right now.",
+		"Not very hungry right now...",
+		"Maybe later?.",
 		"I'm not in the mood.",
-		"Eh, maybe later."
+		"Eh, maybe later.",
+		"Not feeling up to it right now.",
+		"Sorry, not right now.",
+		"Maybe some other time.",
+		"Not really feeling it at the moment.",
+		"Maybe another time.",
+		"Not interested right now."
 	],
 	"oralVoreNo": ":defaultNo",
 	"tooBig": [
 		"I think you're a bit too big to fit in there...",
 		"I don't think I'd be able to get you in...",
 		"If only you were a bit smaller...",
-		"Thats a bit too much to ask of me..."
+		"Thats a bit too much to ask of me...",
+		"I'd pop trying to fit you in there!",
+		"I don't think I could fit you in there without hurting myself...",
+		"That would be a bit too much for me to handle...",
+		"Sorry, but I don't think I could fit you in there without hurting myself..."
 	],
 	"oralVoreTooBig": ":tooBig",
 	"tooSmall": [
 		"Sorry but I need something a bit bigger then you",
 		"I don't think I'd really feel you at that size",
 		"You're too short for this ride buddy",
-		"Maybe if you where just a little bigger..."
+		"Maybe if you where just a little bigger...",
+		"Have to be bigger than that, friend!"
 	],
 	"oralVoreTooSmall": ":tooSmall",
 	"noSlots": [
-		"I think I'm at maximum capacity..."
+		"I think I'm at maximum capacity...",
+		"Sorry but I don't think I could fit you in there...",
+		"I'm pretty sure I don't have any more room in there...",
+		"Sorry but I don't think I could fit you in there without hurting myself...",
+		"I don't think I could fit you in there without hurting myself..."
 	],
 	"oralVoreNoSlots": ":noSlots",
 	"oralVoreFull": [
 		"I'm a bit too full...",
 		"My belly can't stretch any further...",
 		"I've eaten too much already...",
-		"I would... but I'm too full..."
+		"I would... but I'm too full...",
+		"Oof. I'm stuffed. Sorry...",
+		"Any more and I'd pop!"
 	],
 	"oralVoreNeedsInfusion": [
-		"I'd want someone infused in there."
+		"I'd want someone infused in there.",
+		"I need a belly first...",
+		"Someone needs to be a part of me there first...",
+		"I can't just eat you like that, someone needs to be my stomach first..."
 	],
 	"oralVoreAlreadyInfused": [
 		"I don't think I can handle two of you at once...",
 		"I already got someone there.",
-		"That spot's taken already."
+		"That spot's taken already.",
+		"Sorry, I've already got someone there.",
+		"I can't fit another one in there..."
 	],
 	"oralVoreTargetPreySettingsMismatch": [
 		"I would... but I don't think your occupants would like it...",
 		"I'm not sure your other friends would like that...",
-		"I think someone you've got with you would object to that..."
+		"I think someone you've got with you would object to that...",
+		"I don't think your other occupants would be okay with that...",
+		"Your other friends might not like that..."
 	],
 	"tailVoreRequested": {
 		"percentage": "food",
@@ -156,7 +294,7 @@
 		"Heh, now to give you a hug, and pull you into a full body hug."
 	],
 	"absorbVoreRequestedAfter": [
-		"Ah.. easy instant snack, settle in my buddy.",
+		"Ah.. easy instant snack, settle in me, buddy.",
 		"You fit like a glove in me, might as well got comfortable."
 	],
 	"absorbVoreInvalid": "There must be an error, absorbVore is invalid",
@@ -175,13 +313,15 @@
 		"You want to go in through my navel?",
 		"That isn't the usual way to do things.",
 		"I can try that.",
-		"Thats my belly button right?"
+		"Thats my belly button right?",
+		"That's an interesting one... Sure?"
 	],
 	"navelVoreRequestedAfter": [
 		"Mmmm~ that was a tight squeeze.",
 		"You really like bellies don't you.",
 		"Not bothering with anything else, straight to the belly.",
-		"Oooh~ Thats a stretch."
+		"Oooh~ Thats a stretch.",
+		"Huff! You fit in there quite nicely..."
 	],
 	"navelVoreInvalid": "There must be an error, navelVore is invalid",
 	"navelVoreNo": ":defaultNo",
@@ -196,16 +336,30 @@
 	"navelVoreAlreadyInfused": ":oralVoreAlreadyInfused",
 	"navelVoreTargetPreySettingsMismatch": ":oralVoreTargetPreySettingsMismatch",
 	"analVoreRequested": [
-		"You want to go up my butt?",
-		"You know thats the wrong way right?",
+		"You want to be shoved up my tailhole?",
+		"It's going to be a tight fit...",
 		"That's going to be a tight fit.",
-		"Thats an interesting request."
+		"Thats an interesting request.",
+		"I'd love to feel a little squirmy toy like you in there...",
+		"Well, I do have a tailhole that needs filling...",
+		"Hehe, I can already imagine how good you'll feel squirming in my tailhole~",
+		"Mmm~ I bet you'll make my tailhole feel so good and full~",
+		"Yesss~ I could use a nice filling snack like you in my tailhole~",
+		"Look at you, all blushy and ready to be squeezed in my tailhole~",
+		"Hehe~ You're going to make a great tailhole bulge, hope you don't mind it squeezing from how horny I am!"
 	],
 	"analVoreRequestedAfter": [
 		"Ahhh~ Hope I'm not squeezing too much.",
 		"Mmm~ This actually feels pretty good.",
 		"Heh~ it's almost like you're a living sex toy.",
-		"Oooh~ That squirming is rather nice."
+		"Oooh~ That squirming is rather nice.",
+		"Huff! You're quite a snug fit back there...",
+		"Ahhh~ you feel so good squirming back there!",
+		"Mmm~ I could get used to this feeling.",
+		"Heh~ you're like a little living plug.",
+		"Oooh~ I can feel you squirming back there nicely.",
+		"Huff! You're quite a snug fit back there...",
+		"Ahhh~ you feel so good squirming back there!"
 	],
 	"analVoreInvalid": "There must be an error, analVore is invalid",
 	"analVoreNo": ":defaultNo",
@@ -214,7 +368,10 @@
 	"analVoreNoSlots": ":noSlots",
 	"analVoreFull": [
 		"Sorry, all full back here!",
-		"Afraid I can't fit another in me!"
+		"Afraid I can't fit another in me!",
+		"Sorry, but my tailhole is already filled up.",
+		"Sorry, but my tailhole is already occupied.",
+		"My tailhole can't fit any more prey, sorry!"
 	],
 	"analVoreNeedsInfusion": ":oralVoreNeedsInfusion",
 	"analVoreAlreadyInfused": ":oralVoreAlreadyInfused",
@@ -335,25 +492,32 @@
 		"percentage": "sbqLust",
 		"pools": [
 			[ // 0% - 25%
-				"Hah, you're horny.",
-				"You want to get squeezed into my dick?",
-				"You know things aren't supposed to go in there right?",
-				"Thats going to be a real tight fit."
+				"Hah, you're horny~",
+				"You really want to get crammed down my shaft?",
+				"I'll gladly take you in my cock~",
+				"You really want to feel my dick aorund you~?",
+				"You want to be crammed in my shaft? Really?"
 			],
 			[ // 25% - 50%
 				"Mmm... I think I could work myself up to that heh.",
-				"Ahh... just the suggestion got my dick firming up, lets do it.",
-				"You're real naughty you know that?\nWanting to get shoved into my dick...\nYeah..."
+				"Ahh... just the suggestion is making me hard... lets do it~",
+				"You're real naughty you know that?\nWanting to get shoved into my dick...\nYeah...\n Not that I'm into it or anything...",
+				"Wanting to get crammed into my cock... Naughty naughty~",
+				"You're so naughty... Wanting crammed in my sahft~"
 			],
 			[ // 50% - 75%
-				"Thats good, because I've had a bit of a hard on hehe~",
-				"Of course I can! Gosh its going to feel so good with you in my cock!",
-				"Hehe, you sure you can handle getting squeezed in my boner?"
+				"Thats good, because cause you've given me a hard on hehe~",
+				"Mrrr~ I'll gladly shove you down my cock. You'll feel so good squirming in there~",
+				"I cant wait to squeeze and knead you with my dick... You'll make a good toy~",
+				"You'll make a good cock toy~",
+				"I'll enjoy making a cock plug out of you~"
 			],
 			[ // 75% - 100%
-				"Yes! of course I will!\nI'm so worked up I just *need* someone squirming down my shaft!",
-				"Oh yessss! Huff... Get yourself squirming down my shaft right away!",
-				"Ahhh yes please! I needed someone squirming in my cock and now you're right here asking for it!"
+				"Happily~ You'll make a good cock snack~\nI'm so worked up I just *need* someone squirming down my shaft~!",
+				"Oh yessss! Huff... I'll shove your squirming ass down my cock right now...",
+				"Ahhh yes please! I needed someone squirming in my dick and now you're asking for it!",
+				"Ahhhn~ I needed someone to be a cock snack for me...",
+				"Mmmmph~! I really needed a way to let off some of this honryness!"
 			]
 		]
 	},
@@ -362,23 +526,32 @@
 		"pools": [
 			[ // 0% - 25%
 				"Ahh... You're making my shaft all firm~",
-				"I hope you like it in there~"
+				"I hope you like it in there~",
+				"Ooooh~ Whatever you're doing... keep doing it.",
+				"Huff... That squrming feels good.",
+				"Mrr~ Whatever you're doing feels good..."
 			],
 			[ // 25% - 50%
-				"Aahh~ ooooh thats really good~",
+				"Aahh~ ooooh thats really good...",
 				"Mmmm~ You're getting me all excited~",
 				"Ffff~ Now I'm all hard~",
-				"A-ahh~ Don't stop squirming~"
+				"A-ahh~ Don't stop squirming~",
+				"Fuuuck... My cock is leaking because of you~",
+				"You keep that up and I might cum!"
 			],
 			[ // 50% - 75%
-				"Yes! Oooh thats great! Squirm even more!",
+				"Yes! More! Keep Squriming! Haaah!",
 				"Keep Squirming, get me harder!",
-				"Yessss~ that feels so goooood~"
+				"Yessss~ that feels so goooood~",
+				"Ahhhhn~ Fuuuck~ Yes...",
+				"Ahhhn! Please keep squirming like that~! So cloooose!"
 			],
 			[ // 75% - 100%
 				"Huffff~ I'm already so close just from putting you in!",
-				"Squirm! Squirm! Get me to cum ahhH~",
-				"Hhhuff I'm so harrrd this is great~!"
+				"Squirm! Squirm! Get me to cum ahhh~!",
+				"Hhhuff I'm so harrrd this is great~!",
+				"Keep up whatever you're doing! I'm going to cum~!",
+				"I'm so close~! Keep going!"
 			]
 		]
 	},
@@ -388,25 +561,33 @@
 	"cockVoreTooSmall": ":tooSmall",
 	"cockVoreNoSlots": ":noSlots",
 	"cockVoreFull": [
-		"Already got someone plugging my shaft~",
-		"Mmm maybe if someone squirmed a little further in, I might have space for you.",
+		"Already got a cock snack plugging my shaft~",
+		"Mmm~ maybe if someone squirmed a little further in, I might have space for you.",
 		"Hehe, I would if someone wasn't already squeezed in there~",
-		"Maybe after I cum heh~"
+		"Maybe after I cum heh~",
+		"After I blow this load out, sure~",
+		"After this little cock snack wriggles deeper~",
+		"<entityName> is currently plugging my shaft... Wanna work them deeper?",
+		"My shaft is currently stuffed... Want to help me out with that~?"
 	],
 	"cockVoreNeedsInfusion": [
-		"I'd need someone to turn into my dick first...",
+		"Someone needs to be my cock first~ If you're offering?",
 		"Someone would need to be my cock...",
-		"I'd have to turn someone into my penis first..."
+		"I'd have to turn someone into my dick first...",
+		"I need a shaft to put you down first...",
+		"I want to... I need a cock first though~"
 	],
 	"cockVoreAlreadyInfused": ":oralVoreAlreadyInfused",
 	"cockVoreTargetPreySettingsMismatch": ":oralVoreTargetPreySettingsMismatch",
 	"bellyInfuseRequested": [
-		"Youre gonna love it down there, I guarantee it!",
-		"Let's be honest, you look a lot cuter this way.",
-		"You wont regret being a part of me!",
+		"You're gonna love it in there, I guarantee it!",
+		"Let's be honest, you look a lot cuter this way~",
+		"You look better this way~",
+		"You wont regret being a part of me?",
 		"Mm, you love my belly so much... You want to be a part of it?",
 		"You want to become my belly?",
-		"You want to become a part of me...?"
+		"You want to become a part of me...?",
+		"You'd make a cute addition~"
 	],
 	"bellyInfuseRequestedAfter": [
 		"Got you all to myself, now!",
@@ -415,7 +596,9 @@
 		"Uuuurhp!",
 		"Ahh... there you are... just my belly now",
 		"Just a part of me now.",
-		"Try not to make me too hungry..."
+		"Try not to make me too hungry...",
+		"Make sure you behave yourself~",
+		"Making a good tummy for me..."
 	],
 	"bellyInfuseInvalid": "There must be an error, bellyInfuse is invalid",
 	"bellyInfuseNo": ":defaultNo",
@@ -424,7 +607,8 @@
 	"bellyInfuseNoSlots": ":noSlots",
 	"bellyInfuseFull": [
 		"I can't even fit you in there to get started.",
-		"I'm too full to get started on you."
+		"I'm too full to get started on you.",
+		"As nice as that sounds, I wouldnt be able to fit you in there."
 	],
 	"bellyInfuseNeedsInfusion": ":oralVoreNeedsInfusion",
 	"bellyInfuseAlreadyInfused": ":oralVoreAlreadyInfused",
@@ -477,12 +661,21 @@
 	"cockInfuseRequested": [
 		"You want to be my cock?",
 		"Mm, can't wait to be throbbing down there, can you?",
-		"You really want to give yourself entirely to me?"
+		"You really want to give yourself entirely to me?",
+		"You really want to be turned into just a pair of cock and balls~?",
+		"Huff~ made into nothing but my cock and balls?",
+		"You'll look good just swinging between my legs~"
 	],
 	"cockInfuseRequestedAfter": [
 		"Hehe, I can feel you twitching with excitement already~",
 		"Hehe, excited to be part of me~?",
-		"Ah, you're already throbbing with excitement~"
+		"Ah, you're already throbbing with excitement~",
+		"You're already drooling with pre~",
+		"I cant wait to blow a load out of you~",
+		"You make a good cock~",
+		"I can feel you throbbing with need~",
+		"Being just a cock... Exactly where you belong~",
+		"*Moan* Ahhh~ Blowing a load out of you will be fun~"
 	],
 	"cockInfuseInvalid": "There must be an error, cockInfuse is invalid",
 	"cockInfuseNo": ":defaultNo",
@@ -494,10 +687,12 @@
 	"cockInfuseAlreadyInfused": ":oralVoreAlreadyInfused",
 	"cockInfuseTargetPreySettingsMismatch": ":oralVoreTargetPreySettingsMismatch",
 	"oralVoreLetoutRequested": [
-		"You can come out now.",
-		"Time to come out.",
-		"You can't stay in there forever.",
-		"Time to get out."
+		"You can come out now~",
+		"Time to come out~",
+		"You can't stay in there forever...",
+		"Time to get out~",
+		"You're coming out one way or another~",
+		"*Hurk* Out you come..."
 	],
 	"tailVoreLetoutRequested": [
 		"I think you've spent enough time in tail-jail.",
@@ -513,7 +708,16 @@
 	],
 	"analVoreLetoutRequested": [
 		"Was the 'subway' a pleasant trip through?",
-		"Out though my lower exit, come again soon!"
+		"Out though my lower exit, come again soon!",
+		"Time to get out of my backdoor!",
+		"Hope you enjoyed the trip through my backdoor!",
+		"Out through my tailhole you go!",
+		"Time to get out of my tailhole!",
+		"Hope you enjoyed the trip through my tailhole!",
+		"You made a good toy~",
+		"Time to get you out of my ass~",
+		"Out through my backdoor you go~",
+		"Out through my tailhole you go~"
 	],
 	"unbirthVoreLetoutRequested": [
 		"Happy birthday.",
@@ -528,7 +732,16 @@
 		"Hhhhhh, I'm gonna cum...",
 		"C-can't hold back much longer~",
 		"Gonna blast you out with a load~",
-		"Ahhhh, feeels soooo goood~"
+		"Ahhhh, feeels soooo goood~",
+		"I'm gonna shoot my load out now~",
+		"Get ready to be blasted out~",
+		"Time to get blasted out of my cock~",
+		"You're about to be blasted out~",
+		"Fuuuuck~ Here comes the load~",
+		"I'm cumming~ Get ready to be blasted out~",
+		"Ahhh~ I'm cumming~ You're about to be cummed out~",
+		"Gonna blow a you and a load out~",
+		"You've stewed in my cock long enough~"
 	],
 	"oralVorePrompt": {
 		"percentage": "food",
@@ -536,22 +749,31 @@
 			[ // 0% - 25%
 				"I'm soooo hungry... I need to eat something...\nAnd You're looking rather tasty...",
 				"Starving... you... please... feed me...",
-				"My belly is so empty... You're kinda looking a bit like food..."
+				"My belly is so empty... You're kinda looking a bit like food...",
+				"I'm starving... I need food... You look pretty tasty right now~",
+				"You're getting eaten one way or another.",
+				"I'm starving... And you look filling~"
 			],
 			[ // 25% - 50%
 				"Mmmmm hungry... can I... have a taste?",
 				"Ugh... I need some real food to fill me up... would you spend some time in my gut?",
-				"O-ooh, I can feel my tank running dry. Fill me up, please?"
+				"O-ooh, I can feel my tank running dry. Fill me up, please?",
+				"Urgh... My belly is so empty. Would you fill it up for me~?",
+				"You'd make a good meal~"
 			],
 			[ // 50% - 75%
 				"I could use a meal... would you want to be part of it?",
 				"I'm not THAT hungry, but a belly filler would be nice. You in?",
-				"Gotta admit, I think you'd fit in me nicely. Care to try?"
+				"Gotta admit, I think you'd fit in me nicely. Care to try?",
+				"My stomach's rumbling... you look like you could help with that.",
+				"You look like a nice little snack~"
 			],
 			[ // 75% - 100%
 				"I'm a bit peckish... can I eat you to top off?",
 				"Something light would be nice. You might fit the bill.",
-				"Even if I'm not hungry, you look tasty. May I?"
+				"Even if I'm not hungry, you look tasty. May I?",
+				"My belly could use a little something... You look like you could help with that.",
+				"You look like a tasty treat~"
 			]
 		]
 	},
@@ -561,22 +783,31 @@
 			[ // 0% - 25%
 				"Thank you so much! I thought I'd starve!",
 				"I appreciate it. I might reward you for this later.",
-				"I was hoping you'd say that. You're a life-saver."
+				"I was hoping you'd say that. You're a life-saver.",
+				"Yum~ I can't wait to get you in my belly!",
+				"You're going to make a great meal~!",
+				"Thanks, food~"
 			],
 			[ // 25% - 50%
-				"Thanks... I was really hungry.",
-				"Whew... I really didn't want to starve.",
-				"You're the best. Honest!"
+				"Huff... I was so hungry. Thanks for the meal~",
+				"Whew... I would have starved without you~",
+				"You're the best. Honest!",
+				"Thanks, I really needed a meal~",
+				"You're going to make a great snack~"
 			],
 			[ // 50% - 75%
 				"Thank you! I just needed to satiate those grumbles.",
 				"Perfect, I'll make it worth your while.",
-				"Mmm, I was hoping you'd agree."
+				"Mmm, I was hoping you'd agree.",
+				"You're going to be a delicious snack~",
+				"*Mlaaah~* Thanks for the meal~"
 			],
 			[ // 75% - 100%
 				"Thanks, you should be just the snack I need.",
 				"Nice, now just relax and enjoy the ride.",
-				"Lovely, let's not waste any time."
+				"Lovely, let's not waste any time.",
+				"You're going to be a delightful treat~",
+				"Yummy~! I can't wait to get you in my belly~!"
 			]
 		]
 	},
@@ -584,16 +815,32 @@
 		"percentage": "food",
 		"pools": [
 			[ // 0% - 25%
-				"Ahhh~ you *Really* hit the spot there."
+				"Ahhh~ you *Really* hit the spot there.",
+				"Mmm~ That was just what I needed.",
+				"Ugh... so good... thank you~",
+				"Fff~ You're a wonderful meal~",
+				"Yum~ You were delicious~"
 			],
 			[ // 25% - 50%
-				"MMmmmm... feeling better already."
+				"Mmmmmm... feeling better already.",
+				"Ahh... that's much better now.",
+				"Ugh~ That really hit the spot.",
+				"Fff~ You're a great snack~",
+				"Yum~ You were a great meal~"
 			],
 			[ // 50% - 75%
-				"You're filling me right up."
+				"You're filling me right up.",
+				"Mmm~ just what I needed.",
+				"Ahh~ that's much better now.",
+				"Fff~ You're a perfect little snack~",
+				"Huff~ You were a perfect meal~"
 			],
 			[ // 75% - 100%
-				"Mmm, the perfect snack."
+				"Mmm, the perfect snack~",
+				"Ahh~ just what I needed to top off.",
+				"Ugh~ That really satisfied me.",
+				"Fff~ You're an excellent treat~",
+				"Huff~ You were an excellent meal~"
 			]
 		]
 	},
@@ -601,16 +848,32 @@
 		"percentage": "food",
 		"pools": [
 			[ // 0% - 25%
-				"Ahh... I'll have to find something else..."
+				"Ahh... I'll have to find something else...",
+				"I'm really hungry... but I guess I'll manage...",
+				"Ugh... I was really hoping you'd say yes...",
+				"That's too bad... I was really looking forward to a meal...",
+				"Oh well... I'll just have to find something else to eat..."
 			],
 			[ // 25% - 50%
-				"Thats alright... I'll find another meal..."
+				"Thats alright... I'll find another meal...",
+				"Ah well... I guess I'll just have to keep looking...",
+				"Ugh... I was really hoping for a meal...",
+				"That's disappointing... I was really looking forward to it...",
+				"Oh well... I'll just have to find something else to fill my belly..."
 			],
 			[ // 50% - 75%
-				"Thats ok, not everyone wants to be a meal."
+				"Thats ok, not everyone wants to be a meal.",
+				"Ah well... I'll just have to find something else to fill my belly...",
+				"Ugh... I was really hoping you'd help me out...",
+				"That's too bad... I was really looking forward to a snack...",
+				"Oh well... I'll just have to find someone else to eat..."
 			],
 			[ // 75% - 100%
-				"Eh I just wanted a snack, don't fret on it."
+				"Eh I just wanted a snack, don't fret on it.",
+				"All good! I'll find something else to eat.",
+				"I'll manage, no worries.",
+				"Ah well, maybe another time.",
+				"That's alright, I'll find someone else to eat."
 			]
 		]
 	},
@@ -618,16 +881,33 @@
 		"percentage": "food",
 		"pools": [
 			[ // 0% - 25%
-				"Sorry... I can't take no for an answer right now!"
+				"Sorry... I can't take no for an answer right now!",
+				"My hunger's getting the better of me... I have to eat you!",
+				"Please... I really need to eat something...",
+				"I can't help it... I'm too hungry... I have to eat you...",
+				"Sorry, but my hunger won't let me take no for an answer...",
+				"Food is food~ Sorry not sorry."
 			],
 			[ // 25% - 50%
-				"Mmm... I think my grumbling belly disagrees with that."
+				"Mmm... I think my grumbling belly disagrees with that.",
+				"Well, I'll just send you down there to check~",
+				"You're food one way or another~",
+				"Maybe you'll change your mind once you're in my belly?",
+				"Come on, it'll be fun once you're inside~"
 			],
 			[ // 50% - 75%
-				"Why don't you try it out first, then we'll see."
+				"Why don't you try it out first, then we'll see.",
+				"Come on, just a little taste won't hurt...",
+				"I'm sure you'll like it once you're inside.",
+				"Just relax, I promise you'll like it in there.",
+				"You'll feel so nice and warm in my belly~ why dont we see?"
 			],
 			[ // 75% - 100%
-				"Are you quite sure? why don't we see what you think once you're inside."
+				"Are you quite sure? why don't we see what you think once you're inside.",
+				"Come on, it'll be fun! just relax and let me eat you~",
+				"I'm sure you'll enjoy it once you're in my belly~",
+				"Just give it a try, I promise you'll like it~",
+				"You'll feel so nice and warm in me... Why not~?"
 			]
 		]
 	},
@@ -635,16 +915,32 @@
 		"percentage": "food",
 		"pools": [
 			[ // 0% - 25%
-				"You should know denying a starving predator a meal isn't really an option~"
+				"You should know denying a starving predator a meal isn't really an option~",
+				"You really should have known better than to refuse a meal to a hungry predator~",
+				"Mmm... sorry about that... but you were just too tasty to pass up~",
+				"Hehe~ I knew you'd come around once I had you in my belly~",
+				"Sorry~ but you were just too delicious to let go~"
 			],
 			[ // 25% - 50%
-				"Ah! my gut is much happier with this outcome, Wouldn't you agree now?"
+				"Ah! my gut is much happier with this outcome, Wouldn't you agree now?",
+				"Mmm~ I knew you'd like it once you were inside~",
+				"Hehe~ Settle down in there, food....",
+				"Sorry~ but you were just too delicious to let go~",
+				"I was hoping you'd change your mind once you were in my belly~ Glad to see that's the case."
 			],
 			[ // 50% - 75%
-				"And now that I've swallowed you, why not just stay?"
+				"And now that I've swallowed you, why not just stay?",
+				"Hehe~ I knew you'd like it once you were inside~",
+				"Now that you're in my belly, you might as well stay a while~",
+				"Mm~ I knew you'd end up here eventually~",
+				"Hehe~ You really do belong in my belly~"
 			],
 			[ // 75% - 100%
-				"See? you are right where you should be now, down my throat and in my belly!"
+				"See? you are right where you should be now, down my throat and in my belly!",
+				"Hehe~ I knew you'd like it once you were inside~",
+				"Now that you're in my belly, you might as well stay a while~",
+				"Mm~ I knew you'd end up here eventually~",
+				"Hehe~ You really are where you belong now~"
 			]
 		]
 	},
@@ -958,16 +1254,32 @@
 		"percentage": "sbqLust",
 		"pools": [
 			[ // 0% - 25%
-				"Hey, I feel like I need something plugging my ass..."
+				"Hey, I feel like I need something plugging my ass...",
+				"I'm kinda horny and you seem like a good toy.",
+				"Just for a little bit? Please?",
+				"Could I use you just for a bit~?",
+				"I just need to let off some energy..."
 			],
 			[ // 25% - 50%
-				"Hm... You seem like you'd be a good buttplug."
+				"Hm... You seem like you'd be a good buttplug~",
+				"You're about the right size...",
+				"A toy? All for me?",
+				"You'd fill my ass quite nicely~",
+				"Wouldnt you be a cute toy~?"
 			],
 			[ // 50% - 75%
-				"Ahhh I've just been feeling so horny! And you seem like you'd be a good toy"
+				"Ahhh I've just been feeling so horny! And you seem like you'd be a good toy~",
+				"Huff~! I need something up my ass. Now.",
+				"You're the right size... Up my ass you go~!",
+				"You'll make a good squirmy toy~",
+				"Mmmph~! You look like you belong in my ass. Wanna test it~?"
 			],
 			[ // 75% - 100%
-				"Hufff all these urges! I need something to satisfy me! Hmm you look like you're pretty squirmy~"
+				"Hufff all these urges! I need something to satisfy me! Hmm you look like you're pretty squirmy~",
+				"Please! You'll fill my ass so nicely...",
+				"I need a plug for my ass. And you look like you'll fit the bill quite nicely~",
+				"Mrr~! I need someone in my ass~! I'm so fucking horny...",
+				"Hnnnng! Please let me shove you in my musky tailhole so I can get some relief!"
 			]
 		]
 	},
@@ -975,16 +1287,32 @@
 		"percentage": "sbqLust",
 		"pools": [
 			[ // 0% - 25%
-				"You're volunteering to get shoved up my butt? Interesting~"
+				"You're volunteering to get shoved up my tailhole? Interesting~",
+				"You're really cool with getting shoved in a musky hole? Fun~",
+				"I'll make sure you end up deep inside my ass...",
+				"Mmmph~ Wonderful~",
+				"Thanks *Toy~*"
 			],
 			[ // 25% - 50%
-				"Hehe, just as I thought, now to shove you in there..."
+				"Hehe, just as I thought, now to shove you in there...",
+				"I'll make sure you enjoy it just as much as I will~",
+				"Take a deep breath~ it's the last fresh air you'll have for a while.",
+				"Have fun getting squished and squelched in there~",
+				"I'm gonna have fun with you up there~"
 			],
 			[ // 50% - 75%
-				"Yes! Oh thanks for helping me out with these urges~"
+				"Yes! Oh thanks for helping me out with these urges~",
+				"Ugh~ a toy like you is the perfect size...",
+				"I'm going to ride you so hard~",
+				"Deep breath~",
+				"I might as well use you to get off then~"
 			],
 			[ // 75% - 100%
-				"Heheh! I can't wait to clench down and feel you squirm~"
+				"Heheh! I can't wait to clench down and feel you squirm~",
+				"I'm going to ride you like a fucking toy...",
+				"You're going to make the perfect plug...",
+				"Such a cute little toy~ I'm gonna have fun with you.",
+				"Fff~ I can't wait to feel you up my ass~"
 			]
 		]
 	},
@@ -992,16 +1320,32 @@
 		"percentage": "sbqLust",
 		"pools": [
 			[ // 0% - 25%
-				"Ooh, you fit in there rather nicely~"
+				"Ooh, you fit in there rather nicely~",
+				"You feel quite nice in there...",
+				"Can you feel how my tailhole is squeezing you?",
+				"Mrr~ you like it when I clench down on you~?",
+				"Ahhh~ just the right fit~"
 			],
 			[ // 25% - 50%
-				"Mmm~ you like it when I clench down on you~?"
+				"Mmm~ you like it when I clench down on you~? It sure feels good on my end~",
+				"Hehe~ such a good little toy for me to play with~",
+				"Ahhh~ just the perfect fit~",
+				"I bet you look so cute all squished up in there~",
+				"Ugh~ I can feel you squirming in there~"
 			],
 			[ // 50% - 75%
-				"Just the perfect little toy for me to squeeze and clench on~"
+				"Just the perfect little toy for me to squeeze and clench on~",
+				"Oooh~ you feel so good in there~",
+				"Hehe~ such a squirmy little toy~",
+				"Ugh~ I can feel you squirming in there~",
+				"Ahhh~ just the perfect fit~ I'm going to clench down so hard~"
 			],
 			[ // 75% - 100%
-				"Oooh~ I do love it when you squirm, do it more~!"
+				"Oooh~ I do love it when you squirm, do it more~!",
+				"Ahhh~ just the perfect fit~ I'm going to clench down so hard~",
+				"Hehe~ such a squirmy little toy~ I'm going to enjoy playing with you~",
+				"Ahhhn~! just the perfect fit~! Keep squirming for me~",
+				"Ugh~ I can feel you squirming in there~ I love it~"
 			]
 		]
 	},
@@ -1009,16 +1353,32 @@
 		"percentage": "sbqLust",
 		"pools": [
 			[ // 0% - 25%
-				"Oh well, maybe another time then."
+				"Oh well, maybe another time then.",
+				"I guess I'll just have to find something else to plug me up.",
+				"Ahhh... that's too bad...",
+				"Ugh... I was really hoping you'd say yes...",
+				"Ahhh... I was really looking forward to that..."
 			],
 			[ // 25% - 50%
-				"I suppose I'll find something or someone else to stick up there."
+				"I suppose I'll find something or someone else to stick up there.",
+				"Ugh... I was really hoping you'd help me out...",
+				"Ahhh... that's disappointing...",
+				"Really hoping you'd be up for it... but I guess not...",
+				"Ahhh... I was really looking forward to that..."
 			],
 			[ // 50% - 75%
-				"Mm... I really did need some help dealing with that..."
+				"Mm... I really did need some help dealing with that...",
+				"Huff... fine I'll find someone else...",
+				"Ahhh... Really? I was counting on you...",
+				"Ugh... I was really hoping you'd be up for it... but I guess not...",
+				"Ahhh... I was really looking forward to that... Maybe some other time~"
 			],
 			[ // 75% - 100%
-				"Really? well now I'm going to have to find someone else..."
+				"Really? well now I'm going to have to find someone else...",
+				"You're going to say no when I'm this fucking horny? ugh...",
+				"Ugh... I can't believe you'd refuse me when I'm this needy...",
+				"I really needed you to be my toy... but I guess I'll find someone else to help me out with these urges~",
+				"Ahhh... I was really looking forward to that... Maybe some other time~"
 			]
 		]
 	},
@@ -1026,16 +1386,33 @@
 		"percentage": "sbqLust",
 		"pools": [
 			[ // 0% - 25%
-				"Hm, I think we should try it out anyway, go on and kneel down for me..."
+				"Hm, I think we should try it out anyway, go on and kneel down for me...",
+				"Come on, just a little fun won't hurt...",
+				"I need this... Sorry~!",
+				"I know you said no, but I really need this right now... Please~",
+				"Sorry... I really need this..."
 			],
 			[ // 25% - 50%
-				"Are you sure? maybe you'll change your mind once I've got your head between my legs~"
+				"Are you sure? maybe you'll change your mind once I've got your head between my legs~",
+				"You said no... but you keep looking down there, why not give it a try~",
+				"Don't you want to help me out with these urges~?",
+				"Dont mind me getting closer to you, just trying to get you to change your mind...",
+				"Please... I really need this... I can't take no for an answer right now..."
 			],
 			[ // 50% - 75%
-				"Listen here, I need a nice buttplug and you're looking like you'll be a really squirmy toy~"
+				"Listen here, I need a nice buttplug and you're looking like you'll be a really squirmy toy~",
+				"That look in your eyes though... I think you're going up my ass anyways.",
+				"I was hoping you'd be willing... Not that it matters anyways.",
+				"Doesnt really matter if you're willing or not~",
+				"Mmm... Should have said yes. Not that it matters~"
 			],
 			[ // 75% - 100%
-				"Really? You should have known that wasn't the correct answer, toy~"
+				"Really? You should have known that wasn't the correct answer, toy~",
+				"You dont really have a choice~ You're going in my tailhole willing or not.",
+				"Enjoy getting crammed in my musky hole anyways~",
+				"Feels better when they fight anyways~!",
+				"Keep squirming~! You can fight all you want. Just makes it better for me~"
+
 			]
 		]
 	},
@@ -1043,16 +1420,34 @@
 		"percentage": "sbqLust",
 		"pools": [
 			[ // 0% - 25%
-				"Ahhh~ Lemme give you a nice squeeze just to hold you in."
+				"Ahhh~ Lemme give you a nice squeeze just to hold you in.",
+				"You might feel a \"Smalllll\" squeeze~",
+				"Huff~ Got you~",
+				"Just a little wriggle to settle in I see~",
+				"Mmm... you fit in there rather nicely. Hehe~"
 			],
 			[ // 25% - 50%
-				"You fit rather nicely, I might say you secretly wanted to be in there~"
+				"You fit rather nicely, I might say you secretly wanted to be in there~",
+				"You said no... But your body said yes~",
+				"Sorry, but my ass isnt letting a toy like you go~",
+				"Keep squelching~ It only makes it better for me.",
+				"You couldnt escape my ass~ It's where a toy like you belongs."
+
 			],
 			[ // 50% - 75%
-				"Oooh yes~ Such a squirmy toy! You should have known this is where you belong~"
+				"Oooh yes~ Such a squirmy toy! You should have known this is where you belong~",
+				"A good little toy like you will never escape my ass~",
+				"You fit too well to not be my plug~",
+				"Mmph~ I can feel you squirming in there~ Hnngh~",
+				"Keep squirming~! Just like that~!"
 			],
 			[ // 75% - 100%
-				"Ahhh~ just need to give you a nice good clench~ You're right where you should be, toy~"
+				"Ahhh~ just need to give you a nice good clench~ You're right where you should be, toy~",
+				"I'm sorry, did you think you had a choice? My bad~",
+				"A toy like you will never get away when I'm this horny~!",
+				"Hnnngh~ PLease~ Keep going. Huuuff!",
+				"Mrr~ THat's it toy. Keep thrashing in there~"
+
 			]
 		]
 	},
@@ -1266,22 +1661,30 @@
 			[ // 0% - 25%
 				"Hey so... my balls are feeling a bit empty, would you want to get inside?",
 				"I was just, thinking about squeezing you into my cock...",
-				"Have you ever thought about... being squeezed down my shaft?"
+				"Have you ever thought about... being squeezed down my shaft?",
+				"You seem like you'd be a good cock toy. Want to try?",
+				"I'm kinda horny... and you seem like you'd squirm really nicely. Can I put you in my dick?"
 			],
 			[ // 25% - 50%
 				"Hey so uh... I've been feeling a little horny... can I put you in my balls?",
 				"Been having some urges... can I try... squeezing you into my cock?",
-				"I heard that uh, friends are stored in the balls, I think we're on friendly enough terms for that?"
+				"I heard that uh, friends are stored in the balls, I think we're on friendly enough terms for that?",
+				"Hey- I'm pretty horny... I could use someone squriming down my shaft right now~",
+				"You seem like a good cock toy~ Mind if I find out?"
 			],
 			[ // 50% - 75%
 				"Ahhh I've just been, feeling so horny! I need to have someone squirming around in my sack!",
 				"Huffff... so hard, all these urges to shove someone down into my dick! Help me deal with em!",
-				"Gosh I just keep looking at you... and wanting to feel you getting squeezed down my shaft!"
+				"Gosh I just keep looking at you... and wanting to feel you getting squeezed down my shaft!",
+				"Fuuuuck! I'm so horny right now. I just really want somone in my dick right now! You seem about the right size~",
+				"Horny achieved. Now do you want to be a good toy for me?"
 			],
 			[ // 75% - 100%
 				"Ahhh~ I'm feeling so close! I just need... I need you in my cock!",
 				"I'm so worked up! right on the edge hufff~ and you're exactly what I need shoved down into my balls~",
-				"I've just been overwhelmed with these urges... the urge to have someone squirming around in my dick!"
+				"I've just been overwhelmed with these urges... the urge to have someone squirming around in my dick!",
+				"Fuuuck~ I need someone squirming in my cock right now! I'm so horny and I cant help myslef. Please~?",
+				"I'm so fucking horny... And you seem like a nice and squirmy toy. I need someone squriming in my balls... One way or another."
 			]
 		]
 	},
@@ -1291,19 +1694,32 @@
 			[ // 0% - 25%
 				"Ah thank you so much! you'll be a great filler for my balls...",
 				"Thats great! I've wanted to do this...",
-				"This should be fun... and exciting... hope I don't squeeze too much when I get hard."
+				"This should be fun... and exciting... hope I don't squeeze too much when I get hard.",
+				"You'll feel good in there... I cant wait!",
+				"Fuuuck~ Down you go..."
 			],
 			[ // 25% - 50%
 				"This is going to be great... thanks for helping with these urges!",
-				"Thank you, hehe, now get ready to squeeze down my shaft!"
+				"Thank you, hehe, now get ready to squeeze down my shaft!",
+				"Oh~ Thank you... You're seem to enjoy getting squeezed in my cock~",
+				"You make a good cock plug~",
+				"Squirming in my shaft... Makes me so hard~"
+
 			],
 			[ // 50% - 75%
 				"You said yes! gosh I'm so excited! My cock is too!",
-				"Aha! You do want to! I knew asking you was the right choice!"
+				"Aha! You do want to! I knew asking you was the right choice!",
+				"I knew you'd make for a good cock snack",
+				"Right where you belong. In my shaft squirming~",
+				"Yes~ Get in my cock, toy~"
+
 			],
 			[ // 75% - 100%
 				"Thank you! Tank you Thank you! I needed this so much so much!",
-				"Ahhh Yesss! Please get in there as quick as you can!"
+				"Ahhh Yesss! Please get in there as quick as you can!",
+				"Fuuuck~ Yes! Please! Let me cram you down my shaft~!",
+				"Get over here already so i can shove your wriggly ass down my cock!",
+				"I cant wait for you to make me cum~! Get in there and start squirming~"
 			]
 		]
 	},
@@ -1312,19 +1728,32 @@
 		"pools": [
 			[ // 0% - 25%
 				"Ahh~ thats great, I hope my cock isn't squeezing to hard~",
-				"MM~ I might get a bit too hard from this if you keep squirming..."
+				"Mmm~ I might get a bit too hard from this if you keep squirming...",
+				"You're making me hard... Hope you're having fun in there~!",
+				"I bet it feel nice... Feeling my shaft throbbing around you. Doesnt it~",
+				"Ugh~ You're making me hornier... Not that I mind~"
 			],
 			[ // 25% - 50%
 				"Fff~ ooh~ That's certainly going to get me more excited~",
-				"Ahhh~ keep squirming around for me, I want to feel everything~"
+				"Ahhh~ keep squirming around for me, I want to feel everything~",
+				"Huff~ Making me leak pre... I can feel you squirming in there.",
+				"Such a cute little toy~ I might cum if you keep up that squirming.",
+				"Huff~ Can you keep wriggling? It feel so good~"
 			],
 			[ // 50% - 75%
 				"Yessss~! This is EXACTLY what I needed, squrim even more for me~!",
-				"Push me closer! keep squirming! I want to feel even more!"
+				"Push me closer! keep squirming! I want to feel even more!",
+				"You've got me so close... Keep squirming~!",
+				"Fff~ I'm so close! Keep wriggling! I need to cum~!",
+				"Ahhh~ I'm gonna cum! Keep wriggling around for me~!"
+
 			],
 			[ // 75% - 100%
 				"AhhhH~ ffff I might just cum with all this squirming! don't stop!",
-				"Keep going! Yes! YES~! Try to make me cum! I want it so much!"
+				"Keep going! Yes! YES~! Try to make me cum! I want it so much!",
+				"Keep wriggling! I'm so close to cumming~!",
+				"Fff~ I'm so close! Keep squirming! I need to cum so bad~!",
+				"Ahhh~ I'm gonna cum! Keep wriggling around for me~!"
 			]
 		]
 	},
@@ -1332,16 +1761,32 @@
 		"percentage": "sbqLust",
 		"pools": [
 			[ // 0% - 25%
-				"Thats alright."
+				"Thats alright.",
+				"I guess I'll just have to find someone else to help me out...",
+				"Ahhh... that's too bad...",
+				"Oh well, maybe another time then.",
+				"I guess I'll just have to find something else to plug me up."
 			],
 			[ // 25% - 50%
-				"Dissapointing, but ok."
+				"Dissapointing, but ok.",
+				"I suppose I'll find someone else to help me with these urges...",
+				"Ahhh... that's disappointing...",
+				"Damn... You looked like you'd be perfect for it...",
+				"And here I was ready to feel you in my cock, a shame..."
 			],
 			[ // 50% - 75%
-				"Alright... I'll have to find someone else to help..."
+				"Alright... I'll have to find someone else to help...",
+				"Huff... fine I'll find someone else...",
+				"Ahhh... Really? I was counting on you...",
+				"I really needed a cock plug... Ugh...",
+				"I was really hoping to feel you squirming down my shaft... But whatever~"
 			],
 			[ // 75% - 100%
-				"Huffff... Fine... I'll find another..."
+				"Huffff... Fine... I'll find another...",
+				"You're going to say no when I'm this fucking horny? ugh...",
+				"Ugh... I can't believe you'd refuse me when I'm this needy...",
+				"How could you say that when I'm throbbing with need~?!",
+				"I'm so horny~! Why would you do this to meeee~?"
 			]
 		]
 	},
@@ -1349,16 +1794,33 @@
 		"percentage": "sbqLust",
 		"pools": [
 			[ // 0% - 25%
-				"Hmm... you keep looking through, how about you give it a try~"
+				"Hmm... you keep looking through, how about you give it a try~",
+				"Come on, just a little fun won't hurt...",
+				"I need this... Sorry~!",
+				"Mrr... Sorry~ I dont think you have a choice.",
+				"Huff~ I'm not very convinced..."
 			],
 			[ // 25% - 50%
-				"But I can see that look in your eyes as you stare at my cock, you want to be in there don't you?"
+				"But I can see that look in your eyes as you stare at my cock, you want to be in there don't you?",
+				"You think I didnt see you eyeing my cock~? How about a closer look...",
+				"I dont think you'll get away that easily~",
+				"I saw you eying my sack... You're not getting away now~!",
+				"Are you sure~? I dont think you are..."
+
 			],
 			[ // 50% - 75%
-				"Hmm~ I can see you staring... and I wasn't going to take no for an answer anyway~"
+				"Hmm~ I can see you staring... and I wasn't going to take no for an answer anyway~",
+				"I'm not taking no for an answer... Cmere~",
+				"I needed to make a new batch of cum... You'll make a good filling~",
+				"Sorry... But I wasnt asking. Cmere!",
+				"Huff~ I dont think you understoood... I wasnt asking~"
 			],
 			[ // 75% - 100%
-				"Heh, wrong choice! Huff~ You should have known I wasn't going to accept a no when I'm this close~"
+				"Heh, wrong choice! Huff~ You should have known I wasn't going to accept a no when I'm this close~",
+				"No? Wrong answer~",
+				"Ah... Too bad~ Dont care.",
+				"Ugh! No? Really? Sorry, but dont care. Come here cocksnack~",
+				"No? Hffr~ You should have known that wasn't the correct answer~"
 			]
 		]
 	},
@@ -1366,16 +1828,32 @@
 		"percentage": "sbqLust",
 		"pools": [
 			[ // 0% - 25%
-				"I knew it heh, look at you squirming around in there~"
+				"I knew it heh, look at you squirming around in there~",
+				"You really are a good squirmer~",
+				"Hope you enjoy my cock squeezing you~!",
+				"I can feel you twitching and squirming around in there... I dont think it was a no after all~",
+				"That's it... Keep wriggling. It feels good in my shaft~"
 			],
 			[ // 25% - 50%
-				"Heheh don't tell me I'm wrong, you love it in there in my cock don't you~"
+				"Heheh don't tell me I'm wrong, you love it in there in my cock don't you~",
+				"You make a good sounding rod~",
+				"I can feel you squirming in there~ You like it dont you~?",
+				"Urf~ I'm clenching hard on you... You're doing something right in there~",
+				"Hnnng~! That feels good... Keep doing it~"
 			],
 			[ // 50% - 75%
-				"Ahh~ I love it when you play and put up a little fight, even when you want to be squeezed in my throbbing dick~"
+				"Ahh~ I love it when you play and put up a little fight, even when you want to be squeezed in my throbbing dick~",
+				"Hffr~ Keep it up in there... That feels so good~",
+				"*Pant* *Pant* Huff~ Keep squirming~",
+				"Keep fighting, toy~! It only feels better for me~",
+				"I'm close~ Keep it up and *maybe* I'll let you out."
 			],
 			[ // 75% - 100%
-				"MMMM! pretend to fight as much as you want, you know you want to be in my cock~ and you want me to cum just as much!"
+				"MMMM! pretend to fight as much as you want, you know you want to be in my cock~ and you want me to cum just as much!",
+				"Fight all you want~ It just makes it feel better for me~",
+				"Hrrf! Ahn~! That's it! Keep fighting~ I'm so cloooose!",
+				"Ahhh~ I'm gonna cum! Keep wriggling around for me~!",
+				"Fff~ I'm so close! Keep squirming! I need to cum so bad~!"
 			]
 		]
 	},
@@ -1385,22 +1863,30 @@
 			[ // 0% - 25%
 				"Your belly, I can hear it calling to me... Please! I need you to swallow me whole!",
 				"I just... I can't stop thinking about it! I need to be eaten by you, please!",
-				"I can't help it, I just need to feel the embrace of your belly. I need to be your meal!"
+				"I can't help it, I just need to feel the embrace of your belly. I need to be your meal!",
+				"Please, I'm begging you... Eat me! I need to feel your stomach wrapping around me!",
+				"Your gut... it's calling to me. Please, let me be your snack!"
 			],
 			[ // 25% - 50%
 				"I really need a rest. Would you, please send me down to your gut?",
 				"Would you eat me? Please? I really need to feel your belly squeezing around me...",
-				"Your belly... it looks so nice. I just need to be inside it. Please, eat me!"
+				"Your belly... it looks so nice. I just need to be inside it. Please, eat me!",
+				"I can't stop thinking about being in your belly. Please, let me be your meal!",
+				"Please, I need to be in your gut. I promise I'll be a good snack!"
 			],
 			[ // 50% - 75%
 				"I keep imagining myself inside your belly, like you could totally eat me right now and I would not fight back at all.\nHaha.",
 				"You know, there's nothing really stopping you from just eating me. You could just do it right here and I wouldn't complain.",
-				"Hey, if you're, hungry, like, at all, you've got a totally willing snack right here. You could just eat me if you want."
+				"Hey, if you're, hungry, like, at all, you've got a totally willing snack right here. You could just eat me if you want.",
+				"I mean, if you wanted to, you could just eat me right now. I wouldn't mind at all.",
+				"I keep thinking about how nice it would be to just be in your belly. You could just eat me if you wanted to."
 			],
 			[ // 75% - 100%
 				"I think it would be nice to have a rest in your gut. If you want to eat me that is.",
 				"How full are you? I wouldn't mind chilling in your belly if you're wanting to top up.",
-				"I kinda want to be carried around... in your belly, if you don't mind eating me."
+				"I kinda want to be carried around... in your belly, if you don't mind eating me.",
+				"Your belly looks so comfy... I think I'd like to be in there. You could just eat me if you wanted to.",
+				"I bet your belly would feel so nice and warm... I think I'd like to be in there."
 			]
 		]
 	},
@@ -1410,22 +1896,30 @@
 			[ // 0% - 25%
 				"Thank you! Thank you! Thank you! Now, open wide so I can just dive right in there!",
 				"Yes! Thank you! Gosh, I almost dove in when you opened your mouth to say 'yes'!",
-				"Thank you! Ahhh... I can't wait to slip right on down your throat and be all yours!"
+				"Thank you! Ahhh... I can't wait to slip right on down your throat and be all yours!",
+				"Yes! Oh thank you so much! I can't wait to be in your belly!",
+				"Yesss! Oh thank you! I can't wait to feel your stomach wrapping around me!"
 			],
 			[ // 25% - 50%
 				"Ahh! I'm so happy I get to be your meal!",
 				"I'm really gonna get to be in your belly? Thank you!",
-				"Yes! I can't wait to be making a bulge in your gut!"
+				"Yes! I can't wait to be making a bulge in your gut!",
+				"Yesss! I'm so excited to be your snack!",
+				"Thank you! I can't wait to feel your stomach squeezing around me!"
 			],
 			[ // 50% - 75%
 				"You'd really do that? Just eat me whole?",
 				"You're really going to eat me? Right here? Right now?",
-				"Oh my gosh! You're actually going to eat me?"
+				"Oh my gosh! You're actually going to eat me?",
+				"Wow! I can't believe you're really going to eat me!",
+				"Thank you so much! I can't wait to be in your belly!"
 			],
 			[ // 75% - 100%
 				"Yes? Oh, this is going to be fun!",
 				"I get to be your snack!",
-				"Yes! I just love bellies so much!"
+				"Yes! I just love bellies so much!",
+				"Yesss! I can't wait to be in your gut!",
+				"Thank you! I'm so excited to be your meal!"
 			]
 		]
 	},
@@ -1433,16 +1927,32 @@
 		"percentage": "sbqRest",
 		"pools": [
 			[ // 0% - 25%
-				"Ah... I guess I was too excited... I'll find someone else..."
+				"Ah... I guess I was too excited... I'll find someone else...",
+				"That's too bad... I was really looking forward to it...",
+				"I understand... I'll just have to find another way to rest...",
+				"Ahhh... that's disappointing...",
+				"I see... well, maybe another time then."
 			],
 			[ // 25% - 50%
-				"That's alright... I'll find someone else."
+				"That's alright... I'll find someone else.",
+				"I guess I'll just have to find another way to get some rest.",
+				"Ahhh... I was really hoping you'd help me out...",
+				"I suppose I'll find someone else to help me with this...",
+				"I understand... I'll just have to look for someone else needing a meal..."
 			],
 			[ // 50% - 75%
-				"Hah, yeah... I wonder if anyone else would."
+				"Hah, yeah... I wonder if anyone else would.",
+				"Ugh... I was counting on you...",
+				"Ahhh... Really? I was hoping you'd be willing...",
+				"Alright... I'll have to find someone else to help...",
+				"I guess I'll have to look for someone else to be a meal for..."
 			],
 			[ // 75% - 100%
-				"That's alright, I can ask someone else."
+				"That's alright, I can ask someone else.",
+				"You're going to say no when I'm this tired? ugh...",
+				"Really just needed a rest...",
+				"Ugh... I can't believe you'd refuse me when I'm this exhausted...",
+				"Fine... I'll find another..."
 			]
 		]
 	},
@@ -1452,22 +1962,30 @@
 			[ // 0% - 25%
 				"I... sorry! I need this too much! I'm diving into your maw and you can't stop me!",
 				"You're probably not listening to your belly! I know you want me inside just as much as I need to be!",
-				"That doesn't sound right, I can sense you're hungry! It's fine, I promise! I'm going to be your meal! I'll show you!"
+				"That doesn't sound right, I can sense you're hungry! It's fine, I promise! I'm going to be your meal! I'll show you!",
+				"You're hungry! I can see it in your eyes! It's fine, I'm going to be your snack whether you like it or not!",
+				"I know you said no, but your belly is calling out for me! I'm going to be your meal regardless!"
 			],
 			[ // 25% - 50%
 				"Huh...? No? But your eyes tell me otherwise... You're hungry! How about I help you with that...",
 				"I may need a rest, but I've got enough energy left in me to force my way down your throat!",
-				"You're really going to say no? I can see the hunger in your eyes! Let me in!"
+				"You're really going to say no? I can see the hunger in your eyes! Let me in!",
+				"I know you said no, but I can see the hunger in your eyes! I'm going to be your meal whether you like it or not!",
+				"Come on, you know you want me to be your snack... I'll just go ahead and get in there myself..."
 			],
 			[ // 50% - 75%
 				"Hey, no need to be shy about it... I can tell you want to, so here, how about I stick my head in your maw and we'll see where that leads...",
 				"No? You don't seem very confident there... I could just force myself into your mouth, are you going to stop me?",
-				"Hmm? Really? I thought you were sizing me up just now, you know you can do it... Here, open your maw, let me show you..."
+				"Hmm? Really? I thought you were sizing me up just now, you know you can do it... Here, open your maw, let me show you...",
+				"You don't sound too sure about that no... How about I just push my way into your maw and find out what you *really* think?",
+				"I know you said no, but I can see the desire in your eyes! I'm going to be your meal and we'll see what happens!"
 			],
 			[ // 75% - 100%
 				"You don't sound too confident there... Why don't I just push my way into your maw and find out what you *really* think?",
 				"Hmmm, I think you're lying to me. I think you secretly want me to be bulging out your gut just as much as I do.",
-				"Hm? Did you say no? That can't be right, let me do an internal inspection juuuust to make sure."
+				"Hm? Did you say no? That can't be right, let me do an internal inspection juuuust to make sure.",
+				"I know you said no, but I can see the desire in your eyes! You want me to be your meal, don't you?",
+				"Don't lie to me, I can see the desire in your eyes, you want a snack!"
 			]
 		]
 	},
@@ -1677,19 +2195,33 @@
 	},
 	"analVoreRequesting": [
 		"You wouldn't mind if I just let myself in, would you?",
-		"Could you do me a favor and bend over?"
+		"Could you do me a favor and bend over?",
+		"I've always wanted to try anal vore... would you let me in your butt?",
+		"Your booty looks so inviting... mind if I slip in?",
+		"Hey, can I get into your butt?",
+		"I've been thinking about it a lot... can I get in your ass?",
+		"Your ass looks so inviting... Can I please slip in there? I'll be a good boy...",
+		"Huff~ That pucker of yours looks like it needs a good filling... I'd say I'm about the right size?",
+		"*Slaps your ass* That baby can hold so much! In fact, I bet it can even hold me. Want to find out?",
+		"Your ass looks amazing... It would look even better with me in it~",
+		"Huff~ I need to be in an ass right now. Care to help me out?"
 	],
 	"analVoreRequestingYes": [
 		"You'll let me in? I can't wait to be in your booty!",
-		"Sweet! I'm going to love being in that butt!"
+		"Sweet! I'm going to love being in that butt!",
+		"Huff~ Spread those legs than... I'm going in~",
+		"Bravo Six, going dark." // Just a small quote~!
 	],
 	"analVoreRequestingNo": [
 		"Oh... well it was worth asking.",
-		"No booty for me today, huh?"
+		"No booty for me today, huh?",
+		"No ass?", //Insert megamind face here,
+		"Aw man... I was really hoping to snuggle up in there..."
 	],
 	"analVoreRequestingNoYes": [
 		"Well that's too bad, because I'm going in that butt anyway!",
-		"I think you'll change your tune once you feel me wiggling inside your rear!"
+		"I think you'll change your tune once you feel me wiggling inside your rear!",
+		"*Slips dramatically* Ohhhhh noooooo I slipped and fell in... What a shame..."
 	],
 	"unbirthVoreRequesting": {
 		"percentage": "sbqLust",
@@ -1831,16 +2363,32 @@
 		"percentage": "sbqLust",
 		"pools": [
 			[ // 0% - 25%
-				"Ah... I was just looking, but... can I have a closer look at your dick?"
+				"Ah... I was just looking, but... can I have a closer look at your dick?",
+				"Hey... Couldn't help but notice your impressive shaft... Can I get a *little* closer~?",
+				"Mmf~ You look good big guy... In more ways than one. Maybe we can get to know eachother a bit better?",
+				"Well hi there handsome~ You look good... Maybe I can help with that?",
+				"Ohh~ You look good... Want to feel even better?"
 			],
 			[ // 25% - 50%
-				"I can't help but stare... Can I give your rod a feel... maybe a little more?"
+				"I can't help but stare... Can I give your rod a feel... maybe a little more?",
+				"I knew you were big... but... Damn. Maybe I can get a little closer~?",
+				"Hey there handsome~ You're hanging out a bit. Not that I mind. I was actually wondering if I could get a little... *closer*?",
+				"Ah~ You're quite large... I'm impressed. In fact... you look big enough to just...",
+				"Wow... I could just slip right in there... Can I try?"
 			],
 			[ // 50% - 75%
-				"Oh my gosh... I just want to get right up close to your dick... can I pleeease?"
+				"Oh my gosh... I just want to get right up close to your dick... can I pleeease?",
+				"Huff! You look amazing... Bet you'd look better with a plug down that shaft of yours.",
+				"Ugh~! I want in there so badly... Please? I could squirm nice for you~",
+				"You look like you could use a squirmy little toy... I squirm a lot~",
+				"I could use a comfy rod to snuggle up in... Look at you~ I'd fit nicely in there."
 			],
 			[ // 75% - 100%
-				"Wehh! Your dick just looks so gooood! I wanna feel it so much! I wanna feel it squeezing me!"
+				"Ahhn~! Your dick just looks so good! I wanna feel it so much! I need to feel it squeezing me!",
+				"Hnnnf~! I need to feel that throbbing cock around me.",
+				"Hnng~ I need to feel my paws slip into that dripping cock of yours as it swallows me down...",
+				"Your cock looks so good~! Huff~ Let me just nuzzle my way down that shaft of yours~",
+				"I could so easily fit down your shaft... Feeling it throb and pulse around me... Hnnng~! Pleaseeee?"
 			]
 		]
 	},
@@ -1848,16 +2396,32 @@
 		"percentage": "sbqLust",
 		"pools": [
 			[ // 0% - 25%
-				"Ah, thank you! Mmm... getting a bit firm, just how I like!"
+				"Ah, thank you! Mmm... getting a bit firm, just how I like!",
+				"Mrrr~ thick and warm... Just the way I like it...",
+				"Your pre is so slick... Hnng~ I just slip right in...",
+				"I can feel you around me... You feel so good to cuddle up in~",
+				"I needed somewhere comfortable to cuddle up in... Your cock  was just right~"
 			],
 			[ // 25% - 50%
-				"Oh, you've got a real nice one... This is going to be great~"
+				"Oh, you've got a real nice one... This is going to be great~",
+				"Huff... Your cock is just what I needed. Thanks for the spot~",
+				"Mrr... So comfy to nuzzle up in. Just what I needed~",
+				"Uff... Your dick feel so warm around me...",
+				"I really needed a place to rest... Thank you~ "
 			],
 			[ // 50% - 75%
-				"Eee! This is going to be so good... Your dick just looks so nice, I can't wait!"
+				"Eee! This is going to be so good... Your dick just looks so nice, I can't wait!",
+				"Mmmnph~ *Slck* Your cock tastes even better from the inside...",
+				"Mmmf~ I cant believe just how warm and musky everything is in here...",
+				"Uuuuph... Everything is all so squeezy and slick...",
+				"I can feel you around me... You feel so good to cuddle up in~"
 			],
 			[ // 75% - 100%
-				"To get the opportunity to be squeezed inside your nice, hard, *twitching* shaft! I love it!"
+				"To get the opportunity to be squeezed inside your nice, hard, *twitching* shaft! I love it!",
+				"Fuuuck~ I can feel you cock throbbing around me and working over me...",
+				"Mmmmf~ I'm so close! Being wrapped up in a thick cock is making me so haaaard!",
+				"Uuuuph... Keep kneading me down your thick, meaty shaft~ Squeezing and working over me until I'm soaked in your scent~",
+				"*Pant pant pant* I cant believe just how good your cock feels around me~! All musky and warm... I cant believe how hot it is~"
 			]
 		]
 	},
@@ -1865,16 +2429,32 @@
 		"percentage": "sbqLust",
 		"pools": [
 			[ // 0% - 25%
-				"Ah, perhaps another time then?"
+				"Ah, perhaps another time then?",
+				"Mmm~ That's okay!",
+				"Mkay! Not a problem. Talk to you later?",
+				"All good!",
+				"Alrighty! Have a good day!"
 			],
 			[ // 25% - 50%
-				"Alright, I'll find someone else."
+				"Alright, I'll find someone else.",
+				"No problem I guess...",
+				"A little disappointing, but fair!",
+				"Ope- My bad! Have a good time...",
+				"Perhaps I'll catch you next time."
 			],
 			[ // 50% - 75%
-				"I'll... find someone else."
+				"I'll... find someone else.",
+				"Really? Mrr... *Fine*",
+				"I was really hoping you would say yes... I guess I wont push it.",
+				"*Fine*. *Huff*",
+				"Mmmmph... I really wanted to worship that cock of yours... okay...."
 			],
 			[ // 75% - 100%
-				"Huff... Sorry I asked..."
+				"Huff... Sorry I asked...",
+				"Damn it... I was really hoping you'd say yes...",
+				"I'm so horny though! Fine. I'll remember this...",
+				"I was really hoping for a good time~ But I'll wait. You'll come around eventually~",
+				"I'll get you next time snack~!"
 			]
 		]
 	},
@@ -1882,16 +2462,32 @@
 		"percentage": "sbqLust",
 		"pools": [
 			[ // 0% - 25%
-				"Are you sure...? Maybe we can try it out first, just a little bit."
+				"Are you sure...? Maybe we can try it out first, just a little bit.",
+				"Maybe we should try first before you say no~",
+				"I dont think you're sure about that...",
+				"Maybe I should show you how good it can be...",
+				"I think a little encouragement might change your mind~"
 			],
 			[ // 25% - 50%
-				"Hm, is that so? Maybe we should try it out first, you might change your mind~"
+				"Hm, is that so? Maybe we should try it out first, you might change your mind~",
+				"I think you didnt hear me~! Let me show you how good it can be~",
+				"Maybe a little demonstration will change your mind~",
+				"Don't be so quick to say no~ Let me show you how good it can be~",
+				"I think a some encouragement will change your mind~"
 			],
 			[ // 50% - 75%
-				"Hmm... your mouth said one thing, but your eyes are telling me something else~"
+				"Hmm... your mouth said one thing, but your eyes are telling me something else~",
+				"Huff~ You look like you want to~ I shall oblige~",
+				"Mmmph~ I think you want to, but you're just too shy to say it~",
+				"Hnnng~! I need to feel that throbbing shaft around me. I can tell you want it too~",
+				"I need it so bad... I can tell just by looking at you that you want it too~"
 			],
 			[ // 75% - 100%
-				"Huff! I need to get in there! I need your body squeezing around me! You'll like this, I promise!"
+				"Huff! I need to get in there! I need your body squeezing around me! You'll like this, I promise!",
+				"I promise you won't regret this! I need to feel that throbbing cock around me~!",
+				"Mmmmph! I need this so badly~ Sorry not sorry!",
+				"Hnnng~! I'm just too horny! Let me in!",
+				"Fuuuuck. I'm going in~ Good luck getting me out of there~"
 			]
 		]
 	},
@@ -1899,13 +2495,25 @@
 		"I think you'll fill me up nicely.",
 		"I just need a quick bite to eat.",
 		"You seem like you'd make a good meal.",
-		"My belly's been grumbling, you look like you'll fill it..."
+		"My belly's been grumbling, you look like you'll fill it...",
+		"Time for lunch!",
+		"Hope you don't mind being my snack!",
+		"Just what I needed to curb my hunger!",
+		"You're looking tasty today!",
+		"Mmm, you smell delicious!",
+		"Ready for a little trip to my stomach?"
 	],
 	"oralVoreNoPromptAfter": [
 		"Dont mind me! Just grabbing lunch.",
 		"Get comfy in there!",
 		"Mmmhm, you are so filling! seems I nabbed a good one.",
-		"bwuurp! Ah~ you make for some nice 'fine dining' heh"
+		"bwuurp! Ah~ you make for some nice 'fine dining' heh~",
+		"Thanks for being such a tasty snack!",
+		"That was a delicious meal!",
+		"Hope you enjoyed the trip to my belly!",
+		"You're a great meal, I might have to do that again sometime!",
+		"Mmm, that hit the spot!",
+		"Thanks for being such a yummy snack!"
 	],
 	"tailVoreNoPrompt": {
 		"percentage": "food",
@@ -1967,13 +2575,16 @@
 		"Hey, I want to try something horny.",
 		"Hey... what if I shoved you up my ass?",
 		"Mm... I've been wanting some fun, and you seem like you'd make a good toy~",
-		"You know, theres a reason I'm not wearing pants~"
+		"You know, theres a reason I'm not wearing pants~",
+		"You look like you'd fit in my ass quite nicely... Let's test that~"
 	],
 	"analVoreNoPromptAfter": [
 		"Ahhh~ hope I'm not squeezing too much.",
 		"Mmm~ That actually feels pretty good.",
 		"Heh~ it's almost like you're a living sex toy.",
-		"Oooh~ That squirming is rather nice."
+		"Oooh~ That squirming is rather nice.",
+		"You feel so good in my ass... I should put you there more often!",
+		"I can feel you squirming in there... Huff~"
 	],
 	"unbirthVoreNoPrompt": {
 		"percentage": "sbqLust",
@@ -2049,16 +2660,32 @@
 		"percentage": "sbqLust",
 		"pools": [
 			[ // 0% - 25%
-				"Mmm~ hey, I think I'm gonna stick you in my pants, maybe a little more~"
+				"Mmm~ hey, I think I'm gonna stick you in my pants, maybe a little more~",
+				"Hff... I might just have to take you in my pants~",
+				"My cock is a little excited... Maybe you'll help~",
+				"I think I'm going to have a little fun with you~ I'm sure you dont mind~?",
+				"It's going to be fun having you for some fun~"
 			],
 			[ // 25% - 50%
-				"I got a bit excited thinking about this, so now I have to do it~ You're going in my cock~"
+				"I got a bit excited thinking about this, so now I have to do it~ You're going in my cock~",
+				"I think I alittle time with you stewing in my shaft is just what I need~",
+				"Hnngh~ I need a little toy... you look to be about right~",
+				"I'm a little Worked up... And you look like what I need.",
+				"Getting off with you sounds just like what I need right now~"
 			],
 			[ // 50% - 75%
-				"Huff... I'm all excited, you! I'm gonna get off to you squirming in my cock~!"
+				"Huff... I'm all excited, you! I'm gonna get off to you squirming in my cock~!",
+				"I'm so worked up~ Twitching in anticipation of shoving you in my shaft...",
+				"Dripping and needy... And you're going to help me with it~",
+				"You make me so hot under the collar... I thnik you're going to help me with that, sexy~",
+				"My balls are so tight right now... I need to feel you squirming in my cock~"
 			],
 			[ // 75% - 100%
-				"I need to cum! Huff! I need you squirming around in my dick to finish!"
+				"I need to cum! Huff! I need you squirming around in my dick to finish!",
+				"Mmmph~! My cock is so hard and leaking. You're going to be a toy for me to finish~",
+				"So needy~! You're gonna squirm in my shaft to get me off now~",
+				"I'm soooo close~! Just a little more will push me over the edge... You look like just enough~",
+				"I'm going to enjoy using you to get off~ I'm so fucking horny right now."
 			]
 		]
 	},
@@ -2066,16 +2693,32 @@
 		"percentage": "sbqLust",
 		"pools": [
 			[ // 0% - 25%
-				"Ah hehe, squeezed right in my shaft, squirm around for me will ya?"
+				"Ah hehe, squeezed right in my shaft, squirm around for me will ya?",
+				"Mmmph... That's nice. Keep it up in there~",
+				"Ooh~ I like that. Keep doing it~",
+				"Mmmmph~! That feels real good.",
+				"Keep squirming~ That's it."
 			],
 			[ // 25% - 50%
-				"Mmmm, getting nice and hard from that squirming, now squirm some more!"
+				"Mmmm, getting nice and hard from that squirming, now squirm some more!",
+				"Rrrph... My cocks is all firm from you squishing around in there~",
+				"Mmm~ *Huff* *Huff* Keep that up~ You're doing great~",
+				"I can feel you squirming in there... You feel so good~",
+				"That's it, keep squirming around in there~ You're doing so good~"
 			],
 			[ // 50% - 75%
-				"Huff... I'm all excited, you! I'm gonna get off to you squirming in my cock~!"
+				"Huff... I'm all excited, you! I'm gonna get off to you squirming in my cock~!",
+				"I'm so worked up~ Twitching in anticipation of getting off to you in my shaft...",
+				"Just a little more squirming around in there will get me off~ I'm getting close~!",
+				"Fuck... I knew I needed this, I didnt think you'd get me this horny~",
+				"Fuuuck~! That's it~ Keep doing that~!"
 			],
 			[ // 75% - 100%
-				"I need to cum! Huff! I need you squirming around in my dick to finish!"
+				"I need to cum! Huff! I need you squirming around in my dick to finish!",
+				"I'm so fucking horny~! A toy like you getting me off is just what I needed~! Keep fighting~",
+				"Mmmph~ Fuck~! That's it! Keep fighting... It only makes it better for me~",
+				"Keep squirming~! I'm so close- *Hnng~*",
+				"*Whiiine* Keep going- Just a little more! Fuck- please~ Keep going~!"
 			]
 		]
 	},
@@ -2129,12 +2772,44 @@
 	"oralVoreUnprompted": [
 		"Why are drooling? Wait, don't you- mmph!",
 		"You look hungry, are you about to- ahh!",
-		"I might look like a snack to you, but I'm not- wah!"
+		"I might look like a snack to you, but I'm not- wah!",
+		"Hey... are you trying to- mmph!",
+		"Ugh... don't tell me you're about to- ah!",
+		"Why are you opening your mouth at me like that? Don't tell me you're about to- wah!",
+		"I think I see where this is go- *mmph!*",
+		"You look like you want to- mmph!",
+		"Ugh... I can feel you getting closer to me... Don't tell me you're about to- ah!",
+		"Why are you licking your lips at me? Don't tell me you're about to- wah!",
+		"I can see your tongue moving... Don't tell me you're about to- mmph!",
+		"Ugh... I can feel you getting closer to me... Don't tell me you're about to- ah!",
+		"Why are you getting closer? Don't tell me you're about to- wah!",
+		"Hey! Are you trying to- mmph!",
+		"Wait-- are you trying to- ah!",
+		"No, no no no! Wai-!",
+		"I know where this is going... *Sigh*",
+		"Welp. I guess this is happening... *Sigh*",
+		"Seriously? You couldn't just ask? *Sigh*",
+		"Ugh... I guess I should just get comfortable in here... *Sigh*",
+		"Aaaaand there we go again... *Sigh*",
+		"Should have seen this coming... *Sigh*",
+		"Maybe I shouldnt have worn this shirt today... *Sigh*",
+		"Wait- are you sure you want to do this? Ahhhh!"
 	],
 	"oralVoreUnpromptedAfter": [
 		"I've lost count of how many times I've been eaten this week...",
 		"I knew using that soap with '11 herbs and spices' was a bad idea...",
-		"Hm. Do I really taste that good?"
+		"Hm. Do I really taste that good?",
+		"Is there a frequent flyer program for this?",
+		"Is that soup!? Wait... THAT'S MY SOUP!",
+		"I shouldnt have used that 'Tasty Treats' bodywash...",
+		"Churned like butter... again...",
+		"Ugh... I'm going to be stuck in your stomach for hours.",
+		"Ugh... I can feel your tummy squeezing me already... I hope you don't mind if I just relax in here for a while...",
+		"And here I thought I was going to have a good day... Oh well, at least I'm in a nice belly~",
+		"I'm not sure how many times I've been eaten this week, but I know I'm going to be worn out after this one...",
+		"That makes you the third person I've been eaten by today... I hope you don't mind if I just relax in here for a while...",
+		"How many times have I been eaten this week? I think this is the fourth... I hope you don't mind if I just relax in here for a while...,",
+		"Ugh... I can feel your belly squeezing me already... I hope you don't mind if I just relax in here for a while..."
 	],
 	"tailVoreUnprompted": [
 		"Your tail is getting close to me, why are you- mmph!",
@@ -2149,12 +2824,31 @@
 	"absorbVoreUnprompted": [
 		"Well, this is a nice hug, but I feel like sinking into- ah!",
 		"I don't like the look in your eye. Don't you dare hug me like- mmph!",
-		"You want a hug? Well sure, what's the worst that could- wah!"
+		"You want a hug? Well sure, what's the worst that could- wah!",
+		"Hey... are you trying to- mmph!",
+		"Ugh... I can feel you getting closer to me... Don't tell me you're about to- ah!",
+		"Why are you getting closer? Don't tell me you're about to- wah!",
+		"Wait- are you sure you want to do this? Ahhhh!",
+		"Seriously? You couldn't just ask? *Sigh*",
+		"Ugh... I guess I should just get comfortable in here... *Sigh*",
+		"Aaaaand there we go again... *Sigh*",
+		"Should have seen this coming... *Sigh*",
+		"Maybe I shouldnt have worn this shirt today... *Sigh*",
+		"Wait- are you sure you want to do this?",
+		"Ahhhh!",
+		"Not sure how I got here, but I guess I'm in your body now... *Sigh*",
+		"Nooo! This is my nice shirt! I was going to wear this one today! *Sigh*"
 	],
 	"absorbVoreUnpromptedAfter": [
 		"That was a really good hug! When, uh, are you going to let me out?",
 		"I like a good hug, but this is a little too much!",
-		"This isn't the hug I was looking for!"
+		"This isn't the hug I was looking for!",
+		"Ugh... I can feel you squeezing me already... I hope you don't mind if I just relax in here for a while...",
+		"Well, I guess I'm part of you now... I hope you don't mind if I just relax in here for a while...",
+		"Looks like I'm stuck in here for a while...",
+		"Well... Guess I'm staying in here for a while...",
+		"*Blub burble glub glub*... \n *Glub.*",
+		"Why is it starting to tingle?"
 	],
 	"navelVoreUnprompted": [ // navel vore, one I don't really get, but its here for those who do, sadly I'm only skimming the proofreading on this kink, someone who's explicitly into it should write the lines for it
 		"Why are you pushing me to your belly button- mmph!",
@@ -2169,12 +2863,38 @@
 	"analVoreUnprompted": [
 		"Why are you turning like that and showing me your butt- ah!",
 		"I don't know why you're wiggling your butt like that, but don't- mmph!",
-		"Yes, I see you have a nice rear, but why make me look at- wah!"
+		"Yes, I see you have a nice rear, but why make me look at- wah!",
+		"Hey... are you trying to- mmph!",
+		"Ugh... don't tell me you're about to- ah!",
+		"Why are you spreading your cheeks at me? Don't tell me you're about to- wah!",
+		"I think I see where this is go- *mmph!*",
+		"You look like you want to- mmph!",
+		"Ugh... I can feel you getting closer to me... Don't tell me you're about to- ah!",
+		"Why are you getting closer? Don't tell me you're about to- wah!",
+		"Hey! Are you trying to- mmph!",
+		"Wait-- are you trying to- ah!",
+		"No, no no no! Wai-!",
+		"I know where this is going... *Sigh*",
+		"Welp. I guess this is happening... *Sigh*",
+		"Seriously? You couldn't just ask? *Sigh*",
+		"Ugh... I guess I should just get comfortable in here... *Sigh*",
+		"Aaaaand there we go again... *Sigh*",
+		"Should have seen this coming... *Sigh*",
+		"Maybe I shouldnt have worn these pants today... *Sigh*",
+		"Wait- are you sure you want to do this? Ahhhh!"
 	],
 	"analVoreUnpromptedAfter": [
 		"If you wanted some fun, I would've said yes!",
 		"You have a very nice tush, but I wanted to admire it from the outside!",
-		"Can't say this is the first time I've taken the rear entrance..."
+		"Can't say this is the first time I've taken the rear entrance...",
+		"Ugh... I'm going to smell like you for ages.",
+		"Whuff... Freedom! Finally!",
+		"Uff... I'm exhausted after that.",
+		"You could have just asked!",
+		"That was a tight squeeze... I hope you don't mind if I just relax in here for a while...",
+		"Well, I guess I'm staying in here for a while...",
+		"Mmmph... Guess I should just relax in here for a while...",
+		"Well... Guess my day just got cleared up."
 	],
 	"unbirthVoreUnprompted": [
 		"You shouldn't flash your nethers like that. Wait, are you trying to- ah!",
@@ -2199,13 +2919,22 @@
 	"cockVoreUnprompted": [
 		"UwU",
 		"Oh my!",
-		"You're putting me in your shaf- wah!"
+		"You're putting me in your shaf- wah!",
+		"Oh~! Wait-!",
+		"Quite the impressive rod you've got there... Can I touch- *Mmmph~!*",
+		"Mmm~! Quite the size king aintcha? Well- Oh~ Wait!",
+		"Oh my~ Wait- Ahh~",
+		"I can see you're quite large~ I'm impressed... Oh~!"
 	],
 	"bellyInfuseUnprompted": [
-		"What are you doing? Why are you--mmmph!"
+		"What are you doing? Why are you--mmmph!",
+		"Wait- why am I getting pulled closer-",
+		"I can hear your tummy gurgling... Wait-"
 	],
 	"bellyInfuseUnpromptedAfter": [
-		"(Am I... your stomach now? I was in the middle of--)*grumble*"
+		"(Am I... your stomach now? I was in the middle of--)*grumble*",
+		"(Wait- Why do I feel so empty all of a sudden?) *Gurgle... Slosh.*",
+		"(I'm so hungry all of a sudden... Wait- You're the hungry one! Okay... Fine.)"
 	],
 	"breastInfuseUnprompted": [
 		"I'm flattered that you'd show me your tits, but--hey, wait!"
@@ -2220,13 +2949,21 @@
 		"(What... happened? I feel so... wet... and sensitive!)"
 	],
 	"cockInfuseUnprompted": [
-		"Mm, looking to put your cock in me? Sure, just--hey, why are you pulling me closer?"
+		"Mm, looking to put your cock in me? Sure, just--hey, why are you pulling me closer?",
+		"Are you looking for a fun time~? Wait- I didnt mean like that!",
+		"Oh~ Look at this big boy~ Let me just... Wait... What are you doing!?"
 	],
 	"cockInfuseUnpromptedAfter": [
-		"(Did I just become <entityname>'s cock? It feels so--) *throb*"
+		"(Did I just become <entityname>'s cock? It feels so--) *throb*",
+		"(Why do I feel so hard, and, *mmmph~!* Sensitive~!) *Throb, throb*",
+		"(I feel so needy and hard- am I <entityname>'s shaft now? Explains why they were so horny ~///~) *Drool...*"
 	],
 	"oralVoreLetoutUnpromptedAfter": [
-		"Ah, freedom! Thanks for spitting me up."
+		"Ah, freedom! Thanks for spitting me up.",
+		"I'm out! Finally!",
+		"I'm going to be wiping slime off of me...",
+		"My fur is soaked! Come on! Really?",
+		"You could have just told me you were hungry~"
 	],
 	"tailVoreLetoutUnpromptedAfter": [
 		"Thanks for letting me out of your tail!"
@@ -2238,7 +2975,10 @@
 		"Thanks for pushing me out through your navel!"
 	],
 	"analVoreLetoutUnpromptedAfter": [
-		"W-wah! Thanks for squeezing me out your butt!"
+		"W-wah! Thanks for squeezing me out your butt!",
+		"Ugh... I'm going to smell like you for ages.",
+		"Whuff... Freedom! Finally!",
+		"Uff... I'm exhausted after that."
 	],
 	"unbirthVoreLetoutUnpromptedAfter": [
 		"Thanks for squeezing me out of your womb!"
@@ -2254,16 +2994,31 @@
 		"pools": [
 			[ // 0% - 25%
 				"I... I just can't help myself! I'm going to get in your belly!",
-				"It's calling to me... your belly... Open up, I'm diving in!"
+				"It's calling to me... your belly... Open up, I'm diving in!",
+				"You look so... Good... I have to be inside you!",
+				"Your stomach's rumbling... I can help with that~",
+				"You're starving... and I look like the perfect snack!"
 			],
 			[ // 25% - 50%
-				"You look... amazing... I bet you'd look even better with me in your belly!"
+				"You look... amazing... I bet you'd look even better with me in your belly!",
+				"I can feel your stomach calling to me... I have to get in there!",
+				"I'm sure you'd feel amazing with me filling you up!",
+				"Your belly looks so empty... I think I can fix that!",
+				"Come on, just open wide... I promise it'll feel good!"
 			],
 			[ // 50% - 75%
-				"You know, I could force my way down your throat... and there's not much you could do to stop me!"
+				"You know, I could force my way down your throat... and there's not much you could do to stop me!",
+				"I can see it now... you, with a big bulging belly, all because of me!",
+				"Just imagine... me, squirming around in your belly... It'd feel so good!",
+				"Your stomach looks so inviting... I just have to get in there!",
+				"Don't you want to feel full and satisfied? Let me help with that!"
 			],
 			[ // 75% - 100%
-				"I'm gonna fill you up... I want to be carried around in your belly!"
+				"I'm gonna fill you up... I want to be carried around in your belly!",
+				"Your belly looks so empty... I think I can fix that!",
+				"I can feel your stomach calling to me... I have to get in there!",
+				"You know, I could force my way down your throat... and there's not much you could do to stop me!",
+				"Just imagine... me, squirming around in your belly... It'd feel so good!"
 			]
 		]
 	},
@@ -2272,16 +3027,31 @@
 		"pools": [
 			[ // 0% - 25%
 				"I was getting pretty tired, so thanks for being 'open'.",
-				"Being inside you feels just as good as I thought it would be."
+				"Being inside you feels just as good as I thought it would be.",
+				"Mmmh, you feel so nice and tight around me.",
+				"Thanks for letting me fill you up~",
+				"I'd bet you look so cute with that full belly now~"
 			],
 			[ // 25% - 50%
-				"I'm pretty sure I'm right: you look amazing with me filling you out."
+				"I'm pretty sure I'm right: you look amazing with me filling you out.",
+				"See? I told you you'd like having me in there.",
+				"Thanks for being so welcoming~ I feel great in here!",
+				"You feel so warm and cozy around me~",
+				"I bet your belly looks so cute all rounded out now~"
 			],
 			[ // 50% - 75%
-				"See? I told you I could force myself down."
+				"See? I told you I could force myself down.",
+				"You look so adorable with that bulging belly now~",
+				"Mmmh, being inside you is even better than I imagined.",
+				"Thanks for letting me fill you up~ I feel so good in here!",
+				"I can feel your belly stretching around me... You look so cute like this!"
 			],
 			[ // 75% - 100%
-				"I saw a nice belly, I had to go inside. I don't make the rules."
+				"I saw a nice belly, I had to go inside. I don't make the rules.",
+				"You look so adorable with that bulging belly now~",
+				"I was tired and you looked like a nice place to rest.",
+				"Food is food, isnt it? Now hush and let me sleep.",
+				"I can feel your belly stretching around me... It's so cozy in here!"
 			]
 		]
 	},
@@ -2391,16 +3161,32 @@
 		"percentage": "sbqLust",
 		"pools": [
 			[ // 0% - 25%
-				"Your hips... your rear... so inviting... I could just..."
+				"Your hips... your rear... so inviting... I could just...",
+				"I can't resist... your ass is calling to me!",
+				"That ass... I'm going in~",
+				"Oh~! Wait-!",
+				"Sorry hun~ I have to get a closer look...~"
 			],
 			[ // 25% - 50%
-				"Your ass... those hips... I just, I can't help myself!"
+				"Your ass... those hips... I just, I can't help myself!",
+				"I cant help myself... That hole just looks so comfortable!",
+				"Hey... Nice ass! Can I take a closer look?",
+				"*Smack* That's a not a cake, it's the whole damn bakery~! I have to get a closer look.",
+				"Mmmph~! That's a nice looking ass hun. I'm going to get a bit of a closer look~"
 			],
 			[ // 50% - 75%
-				"Your rear is just so heavenly! I need to take a closer look!"
+				"Your rear is just so heavenly! I need to take a closer look!",
+				"Fuck... that's a nice ass! Mind if I take a closer look?",
+				"Mrr~ That hole looks like it needs a plug... Luckily I'm around~",
+				"That's a nice ass you've got there hun~! I bet you need someone filling it and making sure they're nice and squirmy~ Hold still!",
+				"Fuck that's a nice ass~! I've got to feel it squishing around me~ Hold still!"
 			],
 			[ // 75% - 100%
-				"Damn it! Your ass is  so amazing I can't help myself, I gotta dive into it!"
+				"Damn it! Your ass is  so amazing I can't help myself, I gotta dive into it!",
+				"Holy! Look at that ass! I've got to get a closer look... You're not keeping me out!",
+				"That ass... I'm going in it one way or another.",
+				"Oh~! Wait-!",
+				"Sorry hun~ I have to get a closer look...~"
 			]
 		]
 	},
@@ -2408,16 +3194,32 @@
 		"percentage": "sbqLust",
 		"pools": [
 			[ // 0% - 25%
-				"Seriously, I couldn't resist... Don't mind me if I'm a little... quiet..."
+				"Seriously, I couldn't resist... Don't mind me if I'm a little... quiet...",
+				"*Yaaaawn* So comfortable...",
+				"I told you I was going in...",
+				"Sorry hun~ I had to get a closer look...~",
+				"Mmph... I think I'm going to stay a little longer~"
 			],
 			[ // 25% - 50%
-				"It's everything I thought it'd be..."
+				"It's everything I thought it'd be...",
+				"Huff... I knew I'd fit nicely.",
+				"Your ass is so comfortable... Thanks for fitting me in~!",
+				"Mmhh... I could stay here forever~",
+				"Rrr... I knew I was horny, but this is just what I needed~"
 			],
 			[ // 50% - 75%
-				"I think I might be on cloud nine... So nice..."
+				"I think I might be on cloud nine... So nice...",
+				"Fuck... So good... I might stay a little longer~",
+				"Fuck~ You've got me so hard.",
+				"*Pant, pant* You're so musky~ I'm in heaven right now~!",
+				"This is just what I needed~ *Huff~!*"
 			],
 			[ // 75% - 100%
-				"Whoops! Might've dove in a little too far, but it feels so good!"
+				"Whoops! Might've dove in a little too far, but it feels so good!",
+				"I'm in so deep... Good thing I slipped in here... \"Accidentally~\".",
+				"I can feel you clenching around me... I knew you wanted me in here.",
+				"I knew you needed a good plug~ I can feel you squeezing me~!",
+				"*Huff, huff* God your scent makes me so horny~! *Squirm* *Hump* Fuuuck~!"
 			]
 		]
 	},
@@ -2493,16 +3295,32 @@
 		"percentage": "sbqLust",
 		"pools": [
 			[ // 0% - 25%
-				"Your cock... I wonder how it'd feel..."
+				"Your cock... I wonder how it'd feel...",
+				"Your shaft looks so warm... I cant help but wonder how it'd feel~",
+				"I cant help but wonder how it would feel inside that dick of yours... So musky and warm~",
+				"Mmmph~ I'm feeling a little horny... Couldnt I take a little look~?",
+				"Hrrrf~ I need a little peak... Mind if I get close~?"
 			],
 			[ // 25% - 50%
-				"Mmm... I keep having these silly thoughts... about being in your dick..."
+				"Mmm... I keep having these silly thoughts... about being in your dick...",
+				"Mrr~ I think I should get a little better accquianted with that cock of yours... making me hot under the collar~",
+				"*Huff~* I think I need to get a little closer... That cock of yours looks like it could use some attention~",
+				"Look at that dick of yours... leaking and needy~ I might be able to help with that~!",
+				"Fuck... That's hot. I need to get a closer look at that shaft of yours~"
 			],
 			[ // 50% - 75%
-				"Argh I need to do it! I need to feel your throbbing cock alll around me!"
+				"Fuuuck~! I need to do it! I need to feel your throbbing cock all around me~!",
+				"Sorry not sorry~! I think you'll like it just as much as I will!",
+				"Look at you~ All throbbing and needy~! I need to get inside of that~",
+				"I can smell how needy you are~ Let me just take care of that. Dont worry about anything else~",
+				"I need to take a dive into that lovely cock of yours... I'm so horny that it's driving me crazy~!"
 			],
 			[ // 75% - 100%
-				"Damn I neeeed it! I need to dive down in your throbbing cock and get covererd in cum!"
+				"Damn I neeeed it! I need to dive down in your throbbing cock and get covererd in cum!",
+				"I'm so fucking horny~! I need to get smothered in that thick, virile cum of yours~!",
+				"Fuck... You're so musky and it's just getting to my head! I need to get in there and just fucking *hnnng~!*",
+				"<entityname> I need to be inside of your cock so fucking bad~! Just let me squeeze in there and get smothered in your seed~!",
+				"You make me so fucking hard <entityname>~! I need to just get inside of you and- *mmmf~!* See~? I'm so horny~! Now hold still~!"
 			]
 		]
 	},
@@ -2510,16 +3328,32 @@
 		"percentage": "sbqLust",
 		"pools": [
 			[ // 0% - 25%
-				"So tight, and so... Oh wow, was that a throb?"
+				"So tight, and so... Oh wow, was that a throb?",
+				"Mmf... You're squeezing me~",
+				"It's so soft and squishy~ Are you enjoying as much as I am~?",
+				"I'm so comfortable... And enjoying myself~ How's about you, <entityname>?",
+				"*Huff~* I'm so happy... You're so musky. I'm going to smell like you when I get out~"
 			],
 			[ // 25% - 50%
-				"Looks like those thoughts... became a reality..."
+				"Looks like those thoughts... became a reality...",
+				"Sorry hun, it looks like I couldnt help myself~",
+				"*Whiiine~* That was intense~ Just what I needed~",
+				"Oh my~ <entityname>, that was incredible~! I hope you enjoyed it as much as I did~",
+				"I have to admit, I was a little nervous about getting in there, but now that I'm in... I don't want to leave~"
 			],
 			[ // 50% - 75%
-				"Oooh, yes! I can practically feel your heartbeat with every squeeze~"
+				"Oooh, yes! I can practically feel your heartbeat with every squeeze~",
+				"Mmmph~! I can feel you throbbing around me~ Just what I needed~",
+				"*Haaah~!* Oh my, I can feel you pulsing around me~!",
+				"*Whiiine~* That was so intense~ I hope you enjoyed it as much as I did~!",
+				"I can't believe how good that felt~! You're so musky and warm~ I don't want to leave~"
 			],
 			[ // 75% - 100%
-				"So much cum... Where do you keep it all?"
+				"So much cum... Where do you keep it all?",
+				"I can feel you pulsing around me... Drenching me in your seed~ It's so musky and slick~!",
+				"*Pant, pant* I can feel you throbbing around me~! Squeezing me so good~!",
+				"*Whiiine~* Oh fuck... That is so intense~! <entityname> you're throbbing and squeezing me so much...",
+				"Ahhhn~! It's so much... The throbbing of your cock around me, the stickiness of your cum on my fur... The musky, hot air~ It's heaven in here!"
 			]
 		]
 	},
@@ -2560,19 +3394,51 @@
 		"All better now. See? You're practically wagging! Or is that me?"
 	],
 	"oralVoreLetoutForcingAfter": [
-		"Woo! I got you to spit me out."
+		"Woo! I got you to spit me out.",
+		"Told you you couldn't hold me!",
+		"Urgh! You need a mint!",
+		"Not today! I have to live!",
+		"If you're gonna eat someone... make sure they cant get out!",
+		"Can't keep me!",
+		"Ugh... I'm going to smell like your guts for hours...",
+		"Really? Next time, dont let me get out so easy.",
+		"That was close! I almost got stuck in there!",
+		"Managed to wiggle out of your mouth! You need to work on your swallowing technique!",
+		"That was a tight squeeze, but I made it out!",
+		"Finally! Fresh air! I was starting to get a little claustrophobic in there!",
+		"I'm exhausted after that! I need to rest up before someone eats me again!",
+		"Really? You couldn't just ask me to leave? I had to wiggle my way out of your mouth? That's just rude!",
+		"That was a close one! I almost got trapped in there! You need to be more careful with your food next time!",
+		"Oh man. I need a shower after that..."
 	],
 	"tailVoreLetoutForcingAfter": [
 		"Hah! I wiggled my way out your tail."
 	],
 	"absorbVoreLetoutForcingAfter": [
-		"Wow, I managed to escape your body!"
+		"Wow, I managed to escape your body!",
+		"That was a close one! I almost got trapped in there! You need to be more careful next time!",
+		"That was a tight squeeze, but I made it out!",
+		"Finally! Fresh air! I was starting to get a little claustrophobic in there!",
+		"I'm exhausted after that! I need to rest up before someone absorbs me again!",
+		"Really? You couldn't just ask me to leave? I had to wiggle my way out of your body? That's just rude!",
+		"Urgh! You slimed me!"
 	],
 	"navelVoreLetoutForcingAfter": [ // navel vore, one I don't really get, but its here for those who do, sadly I'm only skimming the proofreading on this kink, someone who's explicitly into it should write the lines for it
 		"Yes! I got out through your navel."
 	],
 	"analVoreLetoutForcingAfter": [
-		"I managed to wiggle out your ass!"
+		"I managed to wiggle out your ass!",
+		"You cant hold me!",
+		"I made it out! Try again next time!",
+		"Finally! Fresh air!",
+		"I'm exhausted after that!",
+		"That was close! I almost got trapped in there! You need to be more careful next time!",
+		"Slipped out your ass!",
+		"Cant keep me~!",
+		"Next time, try squeezing a little tighter! I'm sure you'll get it~!",
+		"I can breathe! *Gasp* Finally!",
+		"That was intense! I need a moment to recover...",
+		"I need a shower after that... I stink like you."
 	],
 	"unbirthVoreLetoutForcingAfter": [
 		"Hehe, slipped out of your puss!"
@@ -2581,22 +3447,43 @@
 		"Yes! I squirmed out your boob!"
 	],
 	"cockVoreLetoutForcingAfter": [
-		"Hehe managed to slip on outta here!"
+		"Hehe managed to slip on outta here!",
+		"Got you to let me out~",
+		"Overstimulated~?",
+		"I knew you'd have to cum me out eventually~",
+		"Guess I managed to get out this time~!",
+		"Careful~! I might not get out on my own next time."
 	],
 	"oralVoreForced": {
 		"percentage": "food",
 		"pools": [
 			[ // 0% - 25%
-				"Ooooh! I was starving! Guess you just couldn't resist the call of my gut could you?"
+				"Ooooh! I was starving! Guess you just couldn't resist the call of my gut could you?",
+				"I was so hungry! You fill me up quite nicely~ Couldn't resist wanting my gut~",
+				"Look at you all making me round...",
+				"I needed a good gut weight~ You'll do just as well as any food.",
+				"*Gllllrk~!* Ahck! Fuck! I was starving... Could have told me you wanted to be in my gut~"
 			],
 			[ // 25% - 50%
-				"Urp! Guess you heard my belly grumbling heh, thanks for the meal!"
+				"*Urp~!* Guess you heard my belly grumbling heh, thanks for the meal!",
+				"*Gulp* Ahhh~ I was hungry... How'd you know~?",
+				"I needed that... You round me out nicely~",
+				"*Hwoooourp~!* Good luck in there~",
+				"Urf... I knew you looked tasty. Wasnt expecting you to just feed yourself to me~"
 			],
 			[ // 50% - 75%
-				"Glp! Woah hey! Least you could ask me out dinner first heh."
+				"*Glp!* Woah hey! Least you could ask me out dinner first heh.",
+				"*Umph!?* *Guuuulp~* *Bwhooooorp~!* Wasnt expecting a free snack!",
+				"I just wanted to say hi- Guess it was bye...",
+				"Oomph! Wait! *Gllllrk~!* Welp- Hope you have fun in there...",
+				"Wait- I wasnt ready for that!"
 			],
 			[ // 75% - 100%
-				"Gah! I opened my mouth to talk and you just... dived right in!"
+				"Gah! I opened my mouth to talk and you just... dived right in!",
+				"*Yaaaawn- Hllk!? Glrrrk~* Okay then-",
+				"*Mmph!?* Well, that was sudden...",
+				"I was just chilling... And then he jumped in! *Gllllrk~!? GUlp~* Just like that?",
+				"Huff... I didnt see that coming at all..."
 			]
 		]
 	},
@@ -2679,16 +3566,34 @@
 		"percentage": "sbqLust",
 		"pools": [
 			[ // 0% - 25%
-				"ACK! You really should've given me a warning!"
+				"ACK! You really should've given me a warning!",
+				"Oh! Gah! I wasn't expecting that!",
+				"Whoa! Hey! Careful there!",
+				"Hey! Watch it!",
+				"Ahh! You surprised me!",
+				"Yikes! That was sudden!",
+				"Hey! Watch where you're going!"
 			],
 			[ // 25% - 50%
-				"You naughty thing! was my ass just that alluring?"
+				"You naughty thing! was my ass just that alluring?",
+				"Guess you just couldnt keep out of my ass~",
+				"Ooh! Fuuck~ Surprised me there... Not that I mind~",
+				"Aye~! Careful! my tailhole is sensitive!",
+				"*Mmmph~!* I can feel you squimring- *Haaah~!*"
 			],
 			[ // 50% - 75%
-				"MMM! I guess you just couldn't resist the allure of my hips!"
+				"MMM! I guess you just couldn't resist the allure of my hips!",
+				"This ass was too good for you to stay away from, wasnt it~",
+				"A Squirmy toy like you belongs in my ass... Even if unexpectedly.",
+				"An unexpected buttplug, but saves me the effort of having to find someone to shove up there~!",
+				"Hope you enjoy your stay~! I'm not letting a toy like you go any time soon~!"
 			],
 			[ // 75% - 100%
-				"OOOOH~ Yesss! A wriggly thing like you up my ass is exactly what I need!"
+				"OOOOH~ Yesss! A wriggly thing like you up my ass is exactly what I need!",
+				"Oh! Fuck! My prostate! Haaaaaah!",
+				"Oop! Fuck! Careful how hard you press th- Ahhhhn~!",
+				"Ahhh~! Right there! Don't stop~!",
+				"*Whiiine~*"
 			]
 		]
 	},
@@ -2730,23 +3635,44 @@
 		"percentage": "sbqLust",
 		"pools": [
 			[ // 0% - 25%
-				"Ack! you cock crazed thing! And while I was all soft even!"
+				"Ack! you cock crazed thing! And while I was all soft even!",
+				"Ayee! I wasn't even paying attention~!",
+				"Hey now- Oooh~! Okay~",
+				"Wait... Wait- WAIT! *Mmmmmph~!*",
+				"You're gonna make me horny if you keep squirming in there~!"
 			],
 			[ // 25% - 50%
-				"AH! What're you doing just running up and diving into my dick!"
+				"AH! What're you doing just running up and diving into my dick!",
+				"*Yipe~!* Oh- Okay then~!",
+				"*Mmmph~!* I wasn't expecting something in there~!",
+				"Oh~! Okay~",
+				"Could have warned me first~!"
 			],
 			[ // 50% - 75%
-				"FFfff~ Guess there was no hiding my equipment from you heheh~"
+				"FFfff~ Guess there was no hiding my equipment from you heheh~",
+				"Fffyess~! I needed a little something to wriggle in there and get me even harder~!!",
+				"Ohhh~! You're really getting me going~!",
+				"*Haaah~!* I can't hold back much longer~!",
+				"You're driving me wild~!"
 			],
 			[ // 75% - 100%
-				"AHHH! I'm so close already and now you're forcing your way in there!"
+				"AHHH! I'm so close already and now you're forcing your way in there!",
+				"Mmph~! I was already so close~! If you keep it up I'm gonna- *Hnnnng~!*",
+				"*Whiiine* I'm already so close- And now you're squirming in there and- *Moan*",
+				"Haaaah~! I- Please keep squirming~! I'm so cloooose~!",
+				"<entityname> Dooont stop~! Fuuuuck~! I'm going to cum if you keep that up~!"
 			]
 		]
 	},
 	"oralVoreLetoutForced": [
 		"Ahh... Ok, you want out.",
 		"Mmm... Fine you can come out.",
-		"I actually like having you in there..."
+		"I actually like having you in there...",
+		"Really? Out already?",
+		"Fiiiine. You know it's kind of annoying when you do that.",
+		"Last time! IN OR OUT?",
+		"Make up your mind already!",
+		"*Gurk- HURK* \n *Bleeeeeeh* Happy now?"
 	],
 	"tailVoreLetoutForced": [
 		"Got out of my tail huh? And I was just getting used to your heft back there...",
@@ -2766,7 +3692,15 @@
 	"analVoreLetoutForced": [
 		"A-ah! You managed to wiggle your way out my rear, huh?",
 		"I'm impressed you were able to get out of my booty.",
-		"I guess when it comes to my butt and your squirming, you win."
+		"I guess when it comes to my butt and your squirming, you win.",
+		"Wow, you really wriggled your way out of my ass!",
+		"Well... Look who finally made it out...",
+		"Oh look~ the little toy finally came out.",
+		"Enjoy the fresh air~ It wont last for long.",
+		"Dang it~! I liked having you in there~",
+		"Guess I couldnt hold you forever, huh~?",
+		"Mmmph~! *Haaaah...*",
+		"Have fun smelling like me~"
 	],
 	"unbirthVoreLetoutForced": [
 		"Happy birthday~.",
@@ -2784,12 +3718,28 @@
 		"Could you get back in and squirm some more?",
 		"Mmm~ I thought you were enjoying yourself?",
 		"I thought you liked it in there.",
-		"Oh... alright."
+		"Oh... alright.",
+		"*Mmph~!* I thought you were pretty comfortable in there~",
+		"Don't worry, I can always get you back in there~ Best take some time while you can~!",
+		"Don't get too comfortable out here, I can always get you back in there~",
+		"Enjoy the fresh air while it lasts~",
+		"Have fun smelling like me~",
+		"That was a tight squeeze, but I guess you managed to get out~"
 	],
 	"struggleBelly": [
 		"Having a good time in there?",
 		"I hope it's comfortable enough for you.",
-		"I can feel you squirming around in there..."
+		"I can feel you squirming around in there...",
+		"Don't worry, I won't let you get too uncomfortable~",
+		"Just relax and enjoy the ride~",
+		"Feel free to take a nap if you want~",
+		"Don't forget to squirm for me~! Haha~",
+		"You're doing great in there~",
+		"You're doing so good in there~",
+		"*Hurk~* I can feel you moving around in there~",
+		"Quit kicking around in there, you're gonna make me sick!",
+		"You keep fighting and I'm gonna have to start squeezing more~",
+		"You're doing so good in there, but if you keep struggling, I might have to start squeezing you more~"
 	],
 	"struggleWomb": [
 		"Ahh.. I can feel you kicking hehe...",
@@ -2817,16 +3767,46 @@
 	"struggleCock": [
 		"Ahhh~ yesss I'm gonna get so hard~",
 		"Mmmm bet you love the feel of my meat throbbing all around you~",
-		"Careful~ I might end up cumming you back out!"
+		"Careful~ I might end up cumming you back out!",
+		"Don't stop squirming~! I'm so close~!",
+		"Keep it up~! I'm gonna cum so hard~!",
+		"Think you can handle all this cum if I get too overstimulated~?",
+		"Don't stop squirming~! I'm so close~! I might just have to cum you out right here~!",
+		"Keep it up~! I'm gonna cum so hard~! I might just have to cum you out right here~!",
+		"Bet you love my cum coating you~",
+		"The more you struggle, the more I'm enjoying this~!",
+		"Cute~"
 	],
 	"struggleBalls": [
 		"Having a good time in there?",
 		"Keep squirming.",
 		"It feels so good having you in there~",
-		"Friends are stored in the balls~"
+		"Friends are stored in the balls~",
+		"Hope you're enjoying the feel of my balls squeezing you~",
+		"Don't worry, I won't let you get too uncomfortable~",
+		"Just relax and enjoy the ride~",
+		"Feel free to take a nap if you want~",
+		"Don't forget to squirm for me~! Haha~",
+		"You're doing great in there~",
+		"You're doing so good in there~",
+		"*Mmph~~* I can feel you moving around in there~",
+		"Quit kicking around in there, you're gonna make me cum~!",
+		"You keep fighting and I'm gonna have to start squeezing more~",
+		"You're doing so good in there, but if you keep struggling, I might have to start squeezing you more~",
+		"Get sloshed, nerd~!",
+		"Hope you like the feel of my cum sloshing around you~",
+		"Hope you enjoy smelling like my cum~",
+		"Nuts are for storing cum, but I think you're a pretty good alternative~"
 	],
 	"struggleAss": [
-		"Mmm~ you feel great back there~"
+		"Mmm~ you feel great back there~",
+		"Keep squirming~! I love the feel of you in my ass~",
+		"Don't stop squirming~! I'm so close~!",
+		"Keep it up~! I'm gonna cum so hard~!",
+		"Think you can handle me clenching I get too overstimulated~?",
+		"<entityname> Don't stop squirming~! I'm so close~!",
+		"That's it~! Keep fighting~! It feels so good!",
+		"Keep squirming <entityname>~! I'm loving the feel of you in there~!"
 	],
 	"struggleAcidHeal": [
 		"Now you're nice and safe.",
@@ -2855,26 +3835,53 @@
 		"Just be a good meal and melt.",
 		"If you'd just relax, it'd be easier for me to digest you...",
 		"You're gonna be digested one way or another.",
-		"Settle down and let my stomach do its job."
+		"Settle down and let my stomach do its job.",
+		"Looks like my stomach acid is doing its job~",
+		"You're doing so good in there, but if you keep struggling, I might have to start digesting you faster~",
+		"That's it <entityname>~! Keep fighting~! It feels so good digesting you~!",
+		"Enjoy melting into fat <entityname>~",
+		"You're going to make some good pudge~",
+		"Welp... I guess my diet is out the window now~"
 	],
 	"struggleAcidDigestImmune": [
 		"Why aren't you melting down?",
 		"Doesn't feel like you're melting.",
 		"It's taking quite a while to digest you...",
-		"How are you still moving around in there?"
+		"How are you still moving around in there?",
+		"You're supposed to be digested by now...",
+		"You're not supposed to be able to move around in there anymore...",
+		"You're supposed to be a nice meal for me by now, not still struggling around in there...",
+		"You're supposed to be digested by now, not still moving around in there...",
+		"I thought you were supposed to be digested by now, but you're still moving around in there... What gives?",
+		"You're supposed to be digested by now, but you're still moving around in there... Are you sure you're digestible?",
+		"Wait, are you sure you're digestible? Because it doesn't feel like you're getting digested at all...",
+		"Oooh... I thought you were digestible...",
+		"And here I thought you were digestible... Guess I was wrong~"
 	],
 	"struggleCumDigest": [
 		"Heh, I can feel you sloshing around.",
-		"Seems like you're not quite solid anymore."
+		"Seems like you're not quite solid anymore.",
+		"You're getting so soft and sloshy~",
+		"You're really struggling while you become sloshy~!",
+		"You're going to make some good wolf cum~",
+		"Keep struggling and you'll be a nice warm puddle of cum in no time~",
+		"The more you struggle, the faster you melt~"
 	],
 	"struggleCumDigestBalls": [
 		"Soon you'll become a part of that cum you're splashing around in~.",
-		"You're getting harder to tell the difference between the cum sloshing around in my sack, and you~"
+		"You're getting harder to tell the difference between the cum sloshing around in my sack, and you~",
+		"Hope you enjoy being sloshed around in my sack~",
+		"Keep struggling and you'll be a nice warm puddle of cum in no time~",
+		"The more you struggle, the faster you melt~",
+		"You're going to make some good wolf cum~",
+		"That's it <entityname>~! Keep fighting~! It feels so good melting you~!",
+		"Enjoy melting into wolf cum <entityname>~"
 	],
 	"struggleCumDigestImmune": [
 		"Huh, surprised you're still fighting. You're supposed to be cum by now...",
 		"You don't feel like you're getting softer in my shaft... What's going on?",
-		"How has my cock not melted you down yet? You shouldn't be moving!"
+		"How has my cock not melted you down yet? You shouldn't be moving!",
+		"Wait- are you sure you can churn?"
 	],
 	"struggleFemcumDigest": [
 		"You're getting so soft...",
@@ -2978,19 +3985,29 @@
 	"cockInfusedOccupant": [
 		[
 			"<love>Heh, I can feel you twitching down there~",
-			"<love>Heh, I can feel you twitching down there <entityName>~"
+			"<love>Heh, I can feel you twitching down there <entityName>~",
+			"<love>You feel so good twitching down there~",
+			"<love>You feel so good twitching down there <entityName>~"
 		],
 		[
 			"<love>Are you enjoying your new purpose?~",
-			"<love>Are you enjoying your new purpose <entityName>?~"
+			"<love>Are you enjoying your new purpose <entityName>?~",
+			"<love>You're doing such a good job down there~",
+			"<love>You're doing such a good job down there <entityName>~"
 		],
 		[
 			"<slowlove>Just twitch and throb away, you're right where you belong~",
-			"<slowlove>Just twitch and throb away <entityName> you're right where you belong~"
+			"<slowlove>Just twitch and throb away <entityName> you're right where you belong~",
+			"<slowlove>Just twitch and throb away, right where you belong~",
+			"<slowlove>Just twitch and throb away <entityName>, right where you belong~",
+			"<slowlove>That's it, just twitch and throb away, right where you belong~",
+			"<slowlove>That's it <entityName>, just twitch and throb away, right where you belong~"
 		],
 		[
 			"<love>Heh, you belong right there, twitching and throbbing between my legs~",
-			"<love>Heh, you belong right there <entityName>, twitching and throbbing between my legs~"
+			"<love>Heh, you belong right there <entityName>, twitching and throbbing between my legs~",
+			"<love>You belong right there, drooling and twitching between my legs~",
+			"<love>You belong right there <entityName>, drooling and throbbing between my legs~"
 		],
 		[
 			"<love>You're far more useful like this~",
@@ -3007,7 +4024,13 @@
 	],
 	"strugglingBelly": [
 		"Mmmm, pretty comfortable.",
-		"Ahh... Your belly is so soft..."
+		"Ahh... Your belly is so soft...",
+		"Ohhh~ Your belly is so snug and soft~",
+		"This is so hot~",
+		"I can't get enough of being squished in here~",
+		"I cant stop squirming around in here~",
+		"Your belly is so warm and cozy~",
+		"I know you can feel me squirming around in here~!"
 	],
 	"strugglingWomb": [
 		"Ahh~ It's so soft in here~",
@@ -3037,17 +4060,33 @@
 	"strugglingCock": [
 		"Ahh~ Your cock is squeezing tight around me~",
 		"Ohhh~ Your shaft is squeezing so hard~",
-		"This is so hot~"
+		"This is so hot~",
+		"Mmmph~! I cant get enough of your delicious cock...",
+		"Oooh~! This is so good... Mmmph~!",
+		"I knew I belonged here... In someone else's shaft~",
+		"Can you feel that <entityname>? I'm squirming, just for you~",
+		"Haaah~! You're twitching around me~",
+		"You like it when I do this <entityname>~?",
+		"Mmmmph~ I can see why you enjoy it so much~"
 	],
 	"strugglingBalls": [
 		"All this cum sloshing around me~",
 		"Ahhh... I'm stored in the balls~",
 		"Stuck down here in your balls~",
-		"This is so hot~"
+		"This is so hot~",
+		"There's so much cum~!",
+		"Oh~! I can feel your nuts churning around me <entityname>~!",
+		"I bet my struggles feel wonderful for you, dont they~? Well then here!"
 	],
 	"strugglingAss": [
 		"Ah! so tight!",
-		"Mmmph!"
+		"Mmmph!",
+		"Stop clenching me~",
+		"Hey- I'm still back here!",
+		"Dont forget about me!",
+		"I'm going to smell like you for ages...",
+		"Yeah- Bet you like that!",
+		"I'm going to get out of here one way or another!"
 	],
 	"strugglingAcidHeal": [
 		"Ahh... It's so soothing.",
@@ -3069,7 +4108,22 @@
 	],
 	"strugglingAcidDigest": [
 		"Ahh... I'm starting to melt.",
-		"Oh my... I'm just gonna be food."
+		"Oh my... I'm just gonna be food.",
+		"Your stomach acid is doing its job~",
+		"Looks like I'm being digested~",
+		"It cant end like this!",
+		"Please stop digesting me!",
+		"Don't let me be digested!",
+		"Please don't let me be digested! I don't want to be food!",
+		"Please don't let me be digested! I don't want to be your food!",
+		"Please don't let me be digested! I don't want to be a meal for you!",
+		"Please don't let me be digested! I don't want to be a snack for you!",
+		"I dont want to be digested!",
+		"Looks like I'm going to end up as fat...",
+		"Looks like I'm going to end up as pudge...",
+		"Looks like I'm going to end up as a nice meal for you~",
+		"Looks like I'm going to end up as a nice snack for you~",
+		"And to think I was just starting to get used to being in your belly..."
 	],
 	"strugglingAcidDigestImmune": [
 		[
@@ -3082,10 +4136,26 @@
 	],
 	"strugglingCumDigest": [
 		"It's so hot in here, I think I'm melting~",
-		"I might be starting to turn white~"
+		"I might be starting to turn white~",
+		"Mmm... I can feel myself getting sloshier~",
+		"Your cum is doing its job~",
+		"Looks like I'm being melted into cum~",
+		"Not that I want to be cum or anything, but I guess this is a pretty good way to go~",
+		"Looks like I'm going to end up as a nice puddle of cum for you~",
+		"Well... I guess this is what I get for being in your cock~",
+		"And to think I was just starting to get used to being in your shaft..."
 	],
 	"strugglingCumDigestBalls": [
-		"It won't be long until I'm just cum sloshing around in your nuts~"
+		"It won't be long until I'm just cum sloshing around in your nuts~",
+		"Ahh... I'm getting so sloshy~",
+		"Your cum is doing its job~",
+		"Looks like I'm being melted into cum~",
+		"Not that I want to be cum or anything, but I guess this is a pretty good way to go~",
+		"Looks like I'm going to end up as a nice puddle of cum for you~",
+		"Well... I guess this is what I get for being in your balls~",
+		"And to think I was just starting to get used to being in your sack...",
+		"Looks like I'm going to end up as a nice batch of cum in your sack for you~",
+		"To think my life ended as a nice batch of cum in your sack..."
 	],
 	"strugglingCumDigestImmune": [
 		"Mmm... this isn't strong enough to melt me!",
@@ -3127,11 +4197,23 @@
 		"I... I'm feeling so tired...",
 		"It's getting harder to move...",
 		"I'm losing the energy to struggle...",
-		"I can barely even squirm..."
+		"I can barely even squirm...",
+		"I don't have the energy to struggle anymore...",
+		"I'm so tired... I can't keep struggling...",
+		"I... I can't keep this up... I'm so tired...",
+		"I'm losing the energy to struggle... I can't keep this up...",
+		"I'm so tired... I can't keep struggling... I don't have the energy to struggle anymore...",
+		"I'm so tired... I can't keep this up... I'm losing the energy to struggle...",
+		"I'm losing the energy to struggle... I can't keep this up... I'm so tired...",
+		"I'm so tired... I'm losing the energy to struggle... I can't keep this up..."
 	],
 	"strugglingEggify": [
 		"Is... is this an egg?",
-		"Are you... putting me in an egg?"
+		"Are you... putting me in an egg?",
+		"Wait, am I... becoming an egg?",
+		"What's happening to me? Am I... becoming an egg?",
+		"Can you feel that? I think... I think I'm becoming an egg...",
+		"Can you feel that? I think... I think I'm entirely contained in an egg now..."
 	],
 	"anyInfused": [
 		"<slowlove>",
@@ -3139,11 +4221,18 @@
 		[
 			[
 				"(Just a part of your body~)",
-				"(Just a part of <entityname>'s body~)"
+				"(Just a part of <entityname>'s body~)",
+				"(Just a part of you~)",
+				"(Just a part of <entityname>~)",
+				"(Jiggle~)",
+				"(Squish~)"
 			],
 			"<slowlove>(I belong here, don't I...~)",
 			"<slowlove>(I belong here... just a part of <entityname>~)",
-			"<love>(<keysmash>)"
+			"<love>(<keysmash>)",
+			"<love>(I belong here~)",
+			"<love>(Just a part of <entityname>~)",
+			"<love>(Just a part of you~)"
 		]
 	],
 	"thighsInfused": [
@@ -3158,10 +4247,20 @@
 			[
 				"(Just a belly~)",
 				"(Just your belly~)",
-				"(Just <entityname>'s belly~)"
+				"(Just <entityname>'s belly~)",
+				"(Just a part of your belly~)",
+				"(Just a part of <entityname>'s belly~)",
+				"(Jiggle~)",
+				"(Squish~)",
+				"(So soft~)",
+				"(So warm~)",
+				"(Gurgle~)"
 			],
 			"<slowlove>(I belong here... just a part of <entityname>~)",
-			"<love>(<keysmash>)"
+			"<love>(<keysmash>)",
+			"<love>(I belong here~)",
+			"<love>(Just a part of <entityname>~)",
+			"<love>(Just a part of you~)"
 		]
 	],
 	"breastInfused": [
@@ -3199,7 +4298,14 @@
 			"<slowlove>(Ahh~ I'm throbbing with excitment~)",
 			"<slowlove>(I'm just <entityname>'s cock~)",
 			"<slowlove>(I belong here... just a part of <entityname>~)",
-			"<love>(<keysmash>)"
+			"<love>(<keysmash>)",
+			"<love>(I belong here~)",
+			"<love>(Just a part of <entityname>~)",
+			"<love>(Just a part of you~)",
+			"<love>(I belong here... Twitching and throbbing between your legs~)",
+			"<love>(I belong here... Twitching and throbbing between <entityname>'s legs~)",
+			"<love>(I belong here... Drooling and throbbing between your legs~)",
+			"<love>(I belong here... Drooling and throbbing between <entityname>'s legs~)"
 		]
 	],
 	"pawInfused": [
@@ -3212,7 +4318,11 @@
 		"<slowlove>(I belong back here... just a part of <entityname>~)"
 	],
 	"climax": [
-		"Ahhh~! FUCK that felt good~!"
+		"Ahhh~! FUCK that felt good~!",
+		"Yeesssss~! *Haaaah~!*",
+		"*Moans*~",
+		"*Whiiine~*",
+		"I cant hold it anymore~!"
 	],
 	"climaxWomb": [
 		{
@@ -3237,7 +4347,10 @@
 			"dialogue": [
 				"Agh, I'm... I'm so hard! So close, I'm! ...I'm-",
 				"Gahhhh~",
-				"Ahhh... Finally came... That felt great~"
+				"Ahhh... Finally came... That felt great~",
+				"*Moans*~",
+				"Ahhh... That felt great...",
+				"Whiiine~"
 			]
 		}
 	],
@@ -3246,33 +4359,58 @@
 			"dialogue": [
 				"So much cum sloshing around! So close, I'm! ...I'm-",
 				"Gahhhh~",
-				"Ahhh... Finally came... That felt great~"
+				"Ahhh... Finally came... That felt great~",
+				"*Moans*~",
+				"Ahhh... That felt great...",
+				"Whiiine~"
 			]
 		}
 	],
 	"shrinking": [
 		"Why's everything getting bigger?",
-		"Ah! I'm shrinking!"
+		"Ah! I'm shrinking!",
+		"Help! I'm shrinking!",
+		"Ahh! I'm getting smaller!",
+		"Ahh! I'm getting smaller! Help!",
+		"Ahh! I'm getting smaller! Help! I don't want to be small!",
+		"Ahh! I'm getting smaller! Help! I don't want to be small! I want to be big again!",
+		"Hey! I'm shrinking! Stop it! I don't want to be small!",
+		"I'm supposed to be big! I don't want to be small! Stop shrinking me!",
+		"Ahh! I'm getting smaller! Stop it! I don't want to be small!"
 	],
 	"growing": [
 		"Why's everything getting smaller?",
-		"Ah! I'm growing!"
+		"Ah! I'm growing!",
+		"Hey! I'm growing~!",
+		"Ahh! I'm getting bigger!",
+		"Ahh! I'm getting bigger! This is so weird!",
+		"Ahh! I'm getting bigger! This is so weird! I like it~!",
+		"Ahh! I'm getting bigger! This is so weird! I like being big!",
+		"Hey! I'm growing! This is so weird! I don't want to be big!",
+		"Dont stop growing me!",
+		"Ahh! I'm getting bigger! This is so weird!"
 	],
 	"didSteppy": [
 		"Hehe, whoops!",
 		"<confused>Oh, did I step on something?",
-		"You micros need to pay attention more!"
+		"You micros need to pay attention more!",
+		"Watch where you're walking!",
+		"Careful where you're walking!",
+		"Hey, watch where you're walking!"
 	],
 	"gotStepped": [
 		[
 			"Ahhh!",
 			"AH!",
 			"Oof!",
-			"Eep!"
+			"Eep!",
+			"Hey! I'm down here!"
 		],
 		[
 			"You stepped on me!",
-			"Watch your step!"
+			"Watch your step!",
+			"Careful where you're stepping!",
+			"Hey- I'm down here! Watch where you're stepping!"
 		],
 		[
 			"Be careful where you're <steppyType>!",
@@ -3280,7 +4418,13 @@
 		],
 		[
 			"Look out!",
-			"Careful!"
+			"Careful!",
+			"Watch out!",
+			"Hey- watch out!",
+			"Hey- look out!",
+			"Hey- be careful!",
+			"Hey- watch where you're going!",
+			"Hey- watch where you're <steppyType>!"
 		]
 	],
 	"gotStomped": [
@@ -3300,49 +4444,90 @@
 		"tagCriteria": {
 			"default": {
 				"default": [
-					"Something in my place has changed, I don't like it!"
+					"Something in my place has changed, I don't like it!",
+					"Something is wrong with my home! I don't like it!",
+					"Something is wrong with my home! I don't like it! You need to fix it!",
+					"Something is wrong with my home! I don't like it! You need to fix it! Please!",
+					"Something is wrong with my home! I don't like it! You need to fix it! Please! I don't want to live here if it's like this!",
+					"Something isn't right!",
+					"Hey! This isn't right! You need to fix it!",
+					"Hey! This isn't right! You need to fix it! Please!",
+					"Hey! This isn't right! You need to fix it! Please! I don't want to live here if it's like this!"
 				]
 			}
 		},
 		"enclosedArea": {
 			"default": {
 				"default": [
-					"My home could use some repairs!"
+					"My home could use some repairs!",
+					"My home could use some repairs! Can you help me fix it?",
+					"My home could use some repairs! Can you help me fix it? Please!",
+					"My home could use some repairs! Can you help me fix it? Please! I don't want to live here if it's like this!",
+					"Hey- this place is a mess! Can you help me clean it up?",
+					"Hey- this place is a mess! Can you help me clean it up? Please?",
+					"Hey- this place is a mess! Can you help me clean it up? Please! I don't want to live here if it's like this!",
+					"Um. There's... A hole in the wall? Can you fix it?",
+					"Um. There's... A hole in the wall? Can you fix it? Please?"
 				]
 			}
 		},
 		"otherDeed": {
 			"default": {
 				"default": [
-					"I thought this place was for me!"
+					"I thought this place was for me!",
+					"Hey! I rented this place! Who's this!?",
+					"Wait a second! I thought this place was for me! Who's this!?",
+					"This is supposed to be my place! Who's this!?",
+					"Hey! I thought this place was for me! Who's this!?"
 				]
 			}
 		},
 		"severe": {
 			"default": {
 				"default": [
-					"I can't live in these conditions!"
+					"I can't live in these conditions!",
+					"I can't live in these conditions! You need to fix this!",
+					"I can't live in these conditions! You need to fix this! Please!",
+					"This is too much! Fix this! I can't live in these conditions!",
+					"This is too much! Fix this! I can't live in these conditions! Please!",
+					"Please! I'm tired of asking..."
 				]
 			}
 		},
 		"final": {
 			"default": {
 				"default": [
-					"I've had enough of this!"
+					"I've had enough of this!",
+					"Sorry. This is too much for me. Goodbye.",
+					"Sorry. This is too much for me. Goodbye! I hope you understand.",
+					"Sorry. This is too much for me. Goodbye! I hope you understand!",
+					"Hope you find someone else to live here, because I'm leaving! Goodbye!",
+					"Hope you find someone else to live here, because I'm leaving! Goodbye! I hope you understand!"
 				]
 			}
 		},
 		"beacon": {
 			"default": {
 				"default": [
-					"I'm home!"
+					"I'm home!",
+					"You called?",
+					"Who's there?",
+					"Hello?",
+					"What's up?"
 				]
 			}
 		},
 		"rent": {
 			"default": {
 				"default": [
-					"Here's a gift for all your help!"
+					"Here's a gift for all your help!",
+					"Here's rent for this month!",
+					"Here's rent for this month! Thanks for all your help!",
+					"Here's rent for this month! Thanks for all your help! I hope you like it!",
+					"Appreciate all your help! Here's rent!",
+					"Hope this is enough!",
+					"Appreciate you letting me stay here. Here's rent!",
+					"I have a little something for you! Thanks for letting me stay here!"
 				]
 			}
 		},
@@ -3355,7 +4540,15 @@
 					"I'm unarmed! Help!",
 					"I need help! I can't defend myself!",
 					"Ah! Stop it!",
-					"What!? What did I do!?"
+					"What!? What did I do!?",
+					"Someone! Help!",
+					"Who's doing this to me!? Help!",
+					"Why me!? Help!",
+					"Why me!? What did I do!?",
+					"I was just minding my own business!",
+					"Not again! Help!",
+					"Please! Help me!",
+					"Please! I don't want to die!"
 				]
 			}
 		},
@@ -3366,21 +4559,42 @@
 					"Thank goodness that's over.",
 					"Is it over?",
 					"Is it safe now?",
-					"I made it!"
+					"I made it!",
+					"Ow... That was close!",
+					"That was a close one!",
+					"I think I lost them!",
+					"That was a close call!",
+					"That was a close call! I hope they don't find me again!",
+					"That was a close call! I hope they don't find me again! I don't want to go through that again!",
+					"That was a little too close for comfort!"
 				]
 			}
 		},
 		"accuse": {
 			"default": {
 				"default": [
-					"Hey, that doesn't belong to you!"
+					"Hey, that doesn't belong to you!",
+					"What are you doing with that!?",
+					"Hey, that's mine! Give it back!",
+					"Hey, that doesn't belong to you! Give it back!",
+					"Hey, that doesn't belong to you! Give it back! Please!",
+					"Hey, that doesn't belong to you! Give it back! Please! I don't want to have to ask again!"
 				]
 			}
 		},
 		"alert": {
 			"default": {
 				"default": [
-					"Guards! There is a criminal here!"
+					"Guards! There is a criminal here!",
+					"Guards! Stop this person!",
+					"Guards! This person is a criminal!",
+					"Guards! This person is a criminal! Stop them!",
+					"Guards! This person is a criminal! Stop them! Please!",
+					"Stop them!",
+					"Stop this person!",
+					"Hey! Stop this person!",
+					"Hey! This person is a criminal! Stop them!",
+					"Hey! This person is a criminal! Stop them! Please!"
 				]
 			}
 		},
@@ -3391,7 +4605,12 @@
 					"I'm <selfname>, and I really want to join a ship. Do you want to employ me?",
 					"You are JUST the kind of person I should work with! Fancy employing me?",
 					"I'm looking for a ship's crew to join. Are you interested?",
-					"I'm looking for a place among a crew. Can I join yours?"
+					"I'm looking for a place among a crew. Can I join yours?",
+					"So... Heard you were a ship captain. Can I join your crew?",
+					"Hey! I heard you were a ship captain. Can I join your crew?",
+					"My name is <selfname>, and I'm looking for a ship to join. Can I join yours?",
+					"I'm <selfname>, and I want to join a ship. Can I join yours?",
+					"You look like you could use some help. Can I join your crew?"
 				]
 			}
 		},
@@ -3400,7 +4619,11 @@
 				"default": [
 					"I'll be here for you if you need someone to help you fight bad guys!",
 					"If you need protection, you know where to find me!",
-					"If you need me in battle, I'll be here!"
+					"If you need me in battle, I'll be here!",
+					"If you need me in battle, I'll be here! I can help you fight bad guys!",
+					"If you need me in battle, I'll be here! I can help you fight bad guys! Just let me know when you need me!",
+					"I'm a good fighter! If you need me in battle, I'll be here to help you fight bad guys!",
+					"Let me know if you need me in battle! I'm a good fighter and I can help you fight bad guys!"
 				]
 			}
 		},
@@ -3414,7 +4637,16 @@
 					"I'm alive again! That's good.",
 					"I don't think I respawned properly...",
 					"My head hurts.",
-					"What was I doing just before I died?"
+					"What was I doing just before I died?",
+					"Urgh. That... sucks. Remind me not to die next time.",
+					"Well, that was a little embarrassing.",
+					"Well, that was a little embarrassing! I hope nobody saw that.",
+					"Well, that was a little embarrassing! I hope nobody saw that! I don't want to be known as the person who died there!",
+					"That... was embarrassing.",
+					"Dont mind me, just... uh... respawning over here...",
+					"Don't mind me, just... uh... respawning over here! I hope nobody saw that!",
+					"Don't mind me...",
+					"Don't mind me... I hope nobody saw that!"
 				]
 			}
 		},
@@ -3425,7 +4657,13 @@
 					"You're too far!",
 					"Hey, wait up!",
 					"Don't go too far!",
-					"Let me catch up!"
+					"Let me catch up!",
+					"Don't leave me behind!",
+					"Let me catch up! I don't want to be left behind!",
+					"Don't leave me behind! I don't want to be left behind!",
+					"Wait- I need to be closer to you! I can't reach you from here!",
+					"Wait- I need to be closer to you! I can't reach you from here! Please wait for me!",
+					"Wait up a second!"
 				]
 			}
 		},
@@ -3436,14 +4674,29 @@
 					"You returned!",
 					"Aha!",
 					"You came back?",
-					"So you came back."
+					"So you came back.",
+					"Back for more?",
+					"Back for more? I like that!",
+					"Back for more? I like that! Let's do this!",
+					"Round two!",
+					"Round two! I like that!",
+					"Round two! Let's do this!",
+					"Pull up! Come on!",
+					"You ready to catch these hands again?",
+					"You ready to catch these hands again? Let's do this!"
 				]
 			}
 		},
 		"attack": {
 			"default": {
 				"default": [
-					"Attack!"
+					"Attack!",
+					"Catch these hands!",
+					"Let's go! Come on!",
+					"Let's do this!",
+					"Let's fight!",
+					"Let's fight! I like fighting!",
+					"Let's fight! I like fighting! Let's do this!"
 				]
 			}
 		},
@@ -3461,7 +4714,12 @@
 					"That was stressful...",
 					"Another easy win!",
 					"Yes!",
-					"That's what you get!"
+					"That's what you get!",
+					"That's what you get for messing with me!",
+					"That's what you get for messing with me! Don't mess with me again!",
+					"Don't come back!",
+					"Looks like you lost! Don't mess with me again!",
+					"Looks like they wont be coming back for more~!"
 				]
 			}
 		},
@@ -3473,7 +4731,9 @@
 					"Don't come back!",
 					"Where are you...",
 					"What a hassle.",
-					"Just you wait!"
+					"Just you wait!",
+					"Just you wait! I'll get you next time!",
+					"Just you wait! I'll get you next time! Don't mess with me again!"
 				]
 			}
 		},
@@ -3484,7 +4744,13 @@
 					"They're getting away!",
 					"Where'd you go?",
 					"Get back here!",
-					"How did this happen?"
+					"How did this happen?",
+					"Damn it! Got away...",
+					"Where'd you go?!",
+					"Not again...",
+					"Why can I never find you when you do this!?",
+					"Coward! Come back here and fight me like a real person!",
+					"Coward! Come back here and fight me like a real person! Don't hide!"
 				]
 			}
 		},
@@ -3495,7 +4761,12 @@
 					"Come here!",
 					"Get back here!",
 					"How did you get over there?",
-					"I can't reach!"
+					"I can't reach!",
+					"Come here!",
+					"Get back here!",
+					"Don't go too far!",
+					"Let me catch up!",
+					"I'm gonna get your ass!"
 				]
 			}
 		},
@@ -3506,7 +4777,12 @@
 					"Get them!",
 					"Everybody is in my way.",
 					"Why aren't they already dead?",
-					"Come on!"
+					"Come on!",
+					"Let's get em!",
+					"You're gonna catch these hands now!",
+					"Let's go guys!",
+					"We can do this!",
+					"A little more!"
 				]
 			}
 		}
