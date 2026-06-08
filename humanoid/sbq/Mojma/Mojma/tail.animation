@@ -8,7 +8,7 @@
 				"default": "idle",
 				"priority" : 2,
 				"states" : {
-					"idle": { "frames": 8, "cycle": 2, "mode": "loop" }
+					"idle": { "frames": 8, "cycle": 3, "mode": "loop" }
 				}
 			}
 		},

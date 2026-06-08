@@ -63,8 +63,8 @@
 			"globalTagDefaults" : {},
 			"includes" : [
 				"/humanoid/opensb/humanoid.animation",
-				"/humanoid/wr/layered_emote.animation"
-				// "tail.animation"
+				"/humanoid/wr/layered_emote.animation",
+				"tail.animation"
 			],
 			"animatedParts" : {
 				"stateTypes" : {},
@@ -107,15 +107,16 @@
 	// colors are hex codes, list them in order of darkest to lightest
 	// you will always need at least three for the colors to work nicely, the fourth is
 	// simply the highlight color and is optional as not every species has a highlight
-		"primary": ["6f2919","a85636","e0975c","ffca8a"],
-		"secondary": ["951500","be1b00","dc1f00","f32200"],
+		"primary": ["2b7e8f","3f9aad","52b6cb"],
+		"secondary": ["11c7c7","0adbdb","00ffff"],
 		// primary and secondary must be defined for how SBQ's digest drops work
 		// any other colors can be named however you wish
 
 		// you cannot make up colors that do not exist within the species' images
 		// if you want them to be properly replaced by customization colors
-		"hair": ["6f2919","a85636","e0975c","ffca8a"],
-		"tertiary": ["735e3a","a38d59","d9c189","f7e7b2"],
+		"hair": ["381e55","4c2d6e","623f87"],
+		"tertiary": ["20477a","265b85","36709e"],
+		"quarternary": ["123057","153c5c","20547e"],
 		"flesh": ["702c55","8b3c6c","a94783"]
 	},
 	// the vore animation images this species will generate when the mod loads
@@ -200,7 +201,7 @@
 			"remapDirectives": [
 				[
 					"primary", // outer scales
-					"primary"
+					"tertiary"
 				],
 				[
 					"secondary", // underside scales
@@ -213,7 +214,7 @@
 			"remapDirectives": [
 				[
 					"primary", // outer scales
-					"primary"
+					"quarternary"
 				],
 				[
 					"secondary", // underside scales
@@ -245,7 +246,7 @@
 				],
 				[
 					"secondary", // black fur
-					"secondary"
+					"hair"
 				]
 			]
 		},
@@ -259,7 +260,7 @@
 				],
 				[
 					"secondary", // black fur (end)
-					"secondary"
+					"hair"
 				]
 			]
 
@@ -294,7 +295,7 @@
 				],
 				[
 					"secondary", // dark blue back fins
-					"secondary"
+					"tertiary"
 				],
 				[
 					"tertiary", // white underside
@@ -312,7 +313,7 @@
 				],
 				[
 					"secondary", // dark blue back fins
-					"secondary"
+					"hair"
 				],
 				[
 					"tertiary", // white underside
@@ -327,7 +328,7 @@
 			"remapDirectives": [
 				[
 					"secondary", // black fur
-					"secondary"
+					"quarternary"
 				]
 				// [ // uncomment this if the species has a color that glows you can use
 				// 	"eyes", // glowing star
@@ -341,7 +342,7 @@
 			"remapDirectives": [
 				[
 					"secondary", // black fur
-					"secondary"
+					"quarternary"
 				]
 				// [ // uncomment this if the species has a color that glows you can use
 				// 	"eyes", // glowing star
