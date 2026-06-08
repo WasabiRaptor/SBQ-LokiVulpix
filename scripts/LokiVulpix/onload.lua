@@ -45,6 +45,14 @@ for _, species in ipairs(races) do
 		table.insert(charcreation_patch, { op = "add", path = "/speciesOrdering/-", value = species })
 	end
 	local fallbackShip = speciesConfig.fallbackShip or "novakid"
+	if type(fallbackShip) == "table" then
+		for _, v in ipairs(fallbackShip) do
+			if universeServerConfig.speciesShips[v] then
+				fallbackShip = v
+				break
+			end
+		end
+	end
 	universe_server_patch = sb.jsonMerge(universe_server_patch,  {
 		speciesShips = {
 			[species] = speciesConfig.ships or universeServerConfig.speciesShips[fallbackShip] or {
