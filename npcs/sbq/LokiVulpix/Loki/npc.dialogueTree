@@ -67,8 +67,9 @@
 			"dialogueRandom" :[":converse"],
 			"options" : [
 				["Tell me about yourself", ".converse.talkAboutSelf"],
-				["Tell me about your kinks", ".converse.talkAboutKinks"],
-				["Tell me about your body", ".converse.talkAboutBody"]
+				["Whats going on with you?", ".needRework"]
+				// ["Tell me about your kinks", ".converse.talkAboutKinks"],
+				// ["Tell me about your body", ".converse.talkAboutBody"]
 			]
 		}
 	},
@@ -78,8 +79,9 @@
 			"options" : [
 				["Can you help me make something?", ".lokiShop"],
 				["Tell me about yourself", ".talkAboutSelf"],
-				["Tell me about your kinks", ".talkAboutKinks"],
-				["Tell me about your body", ".talkAboutBody"]
+				["Whats going on with you?", ".needRework"]
+				// ["Tell me about your kinks", ".talkAboutKinks"],
+				// ["Tell me about your body", ".talkAboutBody"]
 			]
 		},
 		"next" : ["introduced"],
@@ -101,6 +103,11 @@
 			}
 		}
 
+	},
+	"needRework" : {
+		"new" :{
+			"dialogue" : ":needRework"
+		}
 	},
 	"talkAboutSelf" : {
 		"new" : {

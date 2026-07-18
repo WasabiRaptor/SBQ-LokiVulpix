@@ -1,4 +1,10 @@
 {
+	"needRework" : [
+		"Wondering why everything is diabled on me?",
+		"Yeah me too.\nBasically, most of this dialogue was written in like, 2023.\nThings sure have changed since then.",
+		"So, until a date in which I feel like, making this feel more like ME again. This is how its gonna be.",
+		"I do wonder if anyone actually reads these so, idk, tell me if you see this?"
+	],
 	"greetingRewards": "/npcs/sbq/dialogue/default.dialogue:greetingRewards",
 	"greetingRewardsIntroduced": [
 		"<entityName> right?\nI have some things for you."

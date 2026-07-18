@@ -145,128 +145,139 @@
 
 
 		"sbqSettingsConfig" : {
+			"includes" : [
+				// These are shortcuts to add in configuration to disable certain kinks one simply needs to uncomment that line and
+				// everything relevant to that will automatically be disabled!
+				"/species/sbq/disableAllVorePred.config",
+				"/species/sbq/disableAllVorePrey.config",
+				"/species/sbq/disableAllInfusePred.config",
+				"/species/sbq/disableAllInfusePrey.config",
+				"/species/sbq/disableAllTF.config",
+				"/species/sbq/disableAllSize.config"
+			],
+
 			"selectValues" : {
 				"personality" : [
 					"default"
 				]
-			},
-			// the default settings loaded when things have not been configured yet, also used as a fallback if a setting happens to be set to an invalid value
-			"defaultSettings" : {"any":{
-				"breastsSelect" : "default",
-				"pussySelect" : "default",
-				"cockSelect" : "default",
-				"vorePrefs" : {
-					"oralVore" : {
-						"pred" : true,
-						"prey" : true
-					},
-					"tailVore" : {
-						"pred" : true,
-						"prey" : true
-					},
-					"breastVore" : {
-						"pred" : true,
-						"prey" : true
-					},
-					"cockVore" : {
-						"pred" : true,
-						"prey" : true
-					},
-					"unbirthVore" : {
-						"pred" : true,
-						"prey" : true
-					}
-				},
-				"infusePrefs" : {
-					"cockInfuse" : {
-						"pred" : true,
-						"prey" : true
-					},
-					"pussyInfuse" : {
-						"pred" : true,
-						"prey" : true
-					},
-					"breastInfuse" : {
-						"pred" : true,
-						"prey" : true
-					}
-				},
-
-				"locations" : {
-					"breasts" : {
-						"mainEffect" : "softDigest",
-						"hammerspace" : true
-					},
-					"womb" : {
-						"mainEffect" : "heal",
-						"hammerspace" : true
-					},
-					"pussy" : {
-						"mainEffect" : "heal"
-					},
-					"tail" : {
-						"mainEffect" : "heal",
-						"hammerspace" : true
-					},
-					"belly" : {
-						"mainEffect" : "softDigest",
-						"hammerspace" : true
-					},
-					"balls" : {
-						"mainEffect" : "softDigest",
-						"hammerspace" : true
-					}
-				}
-
-			}},
-			// override settings, for settings you don't want the player to be able to configure, such as if you don't like certain kinks, you can disable them on your NPC, or require something to stay enabled
-			"overrideSettings" : {"any":{
-				"infusePrefs" : {
-					"pawInfuse" : {
-						"prey" : false
-					}
-				},
-				"vorePrefs" : {
-					"navelVore" : {
-						"pred" : false,
-						"prey" : false
-					},
-					"absorbVore" : {
-						"pred" : false
-					}
-				},
-				"locations" : {
-					"cock" : {
-						"mainEffect" : "none"
-					},
-					"ass" : {
-						"mainEffect" : "none"
-					}
-				},
-				"acidDigestFatalImmune" : true,
-				"acidDigestDrops" : false,
-				"acidDigestDropsAllow" : false,
-
-				"cumDigestFatalImmune" : true,
-				"milkDigestFatalImmune" : true,
-
-				"femcumDigestFatalImmune" : true,
-
-				"speciesTF" : false,
-				"genderTF" : false
-			}},
-			"invalidSettings" : {
-				"npc":{
-					"mainEffect" : {
-						"digest" : "softDigest"
-					}
-				},
-				"object":{
-					"mainEffect" : {
-						"digest" : "softDigest"
-					}
-				}
 			}
+			// the default settings loaded when things have not been configured yet, also used as a fallback if a setting happens to be set to an invalid value
+			// "defaultSettings" : {"any":{
+			// 	"breastsSelect" : "default",
+			// 	"pussySelect" : "default",
+			// 	"cockSelect" : "default",
+			// 	"vorePrefs" : {
+			// 		"oralVore" : {
+			// 			"pred" : true,
+			// 			"prey" : true
+			// 		},
+			// 		"tailVore" : {
+			// 			"pred" : true,
+			// 			"prey" : true
+			// 		},
+			// 		"breastVore" : {
+			// 			"pred" : true,
+			// 			"prey" : true
+			// 		},
+			// 		"cockVore" : {
+			// 			"pred" : true,
+			// 			"prey" : true
+			// 		},
+			// 		"unbirthVore" : {
+			// 			"pred" : true,
+			// 			"prey" : true
+			// 		}
+			// 	},
+			// 	"infusePrefs" : {
+			// 		"cockInfuse" : {
+			// 			"pred" : true,
+			// 			"prey" : true
+			// 		},
+			// 		"pussyInfuse" : {
+			// 			"pred" : true,
+			// 			"prey" : true
+			// 		},
+			// 		"breastInfuse" : {
+			// 			"pred" : true,
+			// 			"prey" : true
+			// 		}
+			// 	},
+
+			// 	"locations" : {
+			// 		"breasts" : {
+			// 			"mainEffect" : "softDigest",
+			// 			"hammerspace" : true
+			// 		},
+			// 		"womb" : {
+			// 			"mainEffect" : "heal",
+			// 			"hammerspace" : true
+			// 		},
+			// 		"pussy" : {
+			// 			"mainEffect" : "heal"
+			// 		},
+			// 		"tail" : {
+			// 			"mainEffect" : "heal",
+			// 			"hammerspace" : true
+			// 		},
+			// 		"belly" : {
+			// 			"mainEffect" : "softDigest",
+			// 			"hammerspace" : true
+			// 		},
+			// 		"balls" : {
+			// 			"mainEffect" : "softDigest",
+			// 			"hammerspace" : true
+			// 		}
+			// 	}
+
+			// }},
+			// // override settings, for settings you don't want the player to be able to configure, such as if you don't like certain kinks, you can disable them on your NPC, or require something to stay enabled
+			// "overrideSettings" : {"any":{
+			// 	"infusePrefs" : {
+			// 		"pawInfuse" : {
+			// 			"prey" : false
+			// 		}
+			// 	},
+			// 	"vorePrefs" : {
+			// 		"navelVore" : {
+			// 			"pred" : false,
+			// 			"prey" : false
+			// 		},
+			// 		"absorbVore" : {
+			// 			"pred" : false
+			// 		}
+			// 	},
+			// 	"locations" : {
+			// 		"cock" : {
+			// 			"mainEffect" : "none"
+			// 		},
+			// 		"ass" : {
+			// 			"mainEffect" : "none"
+			// 		}
+			// 	},
+			// 	"acidDigestFatalImmune" : true,
+			// 	"acidDigestDrops" : false,
+			// 	"acidDigestDropsAllow" : false,
+
+			// 	"cumDigestFatalImmune" : true,
+			// 	"milkDigestFatalImmune" : true,
+
+			// 	"femcumDigestFatalImmune" : true,
+
+			// 	"speciesTF" : false,
+			// 	"genderTF" : false
+			// }},
+			// "invalidSettings" : {
+			// 	"npc":{
+			// 		"mainEffect" : {
+			// 			"digest" : "softDigest"
+			// 		}
+			// 	},
+			// 	"object":{
+			// 		"mainEffect" : {
+			// 			"digest" : "softDigest"
+			// 		}
+			// 	}
+			// }
 		}
 	},
 	"statusControllerSettings" : {

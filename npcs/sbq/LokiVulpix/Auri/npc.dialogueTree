@@ -66,8 +66,9 @@
 			"options" : [
 				[":openShopOption", ".shop"],
 				["Tell me about yourself", ".talkAboutSelf"],
-				["Tell me about your kinks", ".talkAboutKinks"],
-				["Tell me about your body", ".talkAboutBody"]
+				["Whats going on with you?", ".needRework"]
+				// ["Tell me about your kinks", ".talkAboutKinks"],
+				// ["Tell me about your body", ".talkAboutBody"]
 			]
 		},
 		"next" : ["introduced"],
@@ -91,9 +92,15 @@
 			"options" : [
 				["My name is...", ".converse.introduce", [["checkFlags", {"introduced" : false}]]],
 				["Tell me about yourself", ".talkAboutSelf"],
-				["Tell me about your kinks", ".talkAboutKinks"],
-				["Tell me about your body", ".talkAboutBody"]
+				["Whats going on with you?", ".needRework"]
+				// ["Tell me about your kinks", ".talkAboutKinks"],
+				// ["Tell me about your body", ".talkAboutBody"]
 			]
+		}
+	},
+	"needRework" : {
+		"new" :{
+			"dialogue" : ":needRework"
 		}
 	},
 
