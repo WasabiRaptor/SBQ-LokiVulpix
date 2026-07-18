@@ -1,6 +1,6 @@
 {
 	"kind" : "sbq/Mojma/Mojma",
-	"charCreationPatch" : true,
+	"charCreationPatch" : false,
 	"charCreationTooltip" : {
 		"title" : "Mojma",
 		"subTitle" : "The potential for vore.",
