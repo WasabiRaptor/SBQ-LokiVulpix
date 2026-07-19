@@ -36,7 +36,7 @@
 					"body": {
 						"idle": { "properties": { "image": "<humanoidPath><wingsFrontFrameset>:<personalityIdle>",
 							"flippedImage": "<humanoidPath><wingsFrontFlippedFrameset>:<personalityIdle>" } },
-						"duck" : { "properties": { "image": "<humanoidPath><wingsFrontFrameset>:<body_state>.<body_frame>",
+						"duck" : { "properties": { "transformationGroups" : [], "image": "<humanoidPath><wingsFrontFrameset>:<body_state>.<body_frame>",
 							"flippedImage": "<humanoidPath><wingsFrontFlippedFrameset>:<body_state>.<body_frame>" } },
 						"sit": "duck",
 						"lay" : "duck",
@@ -191,7 +191,7 @@
 					"body": {
 						"idle": { "properties": { "image": "<humanoidPath><wingsBackFrameset>:<personalityIdle>",
 							"flippedImage": "<humanoidPath><wingsBackFlippedFrameset>:<personalityIdle>" } },
-						"duck" : { "properties": { "image": "<humanoidPath><wingsBackFrameset>:<body_state>.<body_frame>",
+						"duck" : { "properties": { "transformationGroups" : [], "image": "<humanoidPath><wingsBackFrameset>:<body_state>.<body_frame>",
 							"flippedImage": "<humanoidPath><wingsBackFlippedFrameset>:<body_state>.<body_frame>" } },
 						"sit": "duck",
 						"lay" : "duck",
