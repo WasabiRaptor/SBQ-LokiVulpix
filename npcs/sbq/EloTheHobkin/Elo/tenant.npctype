@@ -382,5 +382,25 @@
 		"statusProperties" : {
 			"sbqDidVornyConvertCheck" : true
 		}
+	},
+	"items" : {
+		"override" : [
+			[0,
+				[
+					{
+						"chestCosmetic" : [{
+							"parameters" : {},
+							"name" : "sbq/EloTheHobkin/Elo_chest",
+							"count" : 1
+						}],
+						"legsCosmetic" : [{
+							"parameters" : {},
+							"name" : "sbq/EloTheHobkin/Elo_legs",
+							"count" : 1
+						}]
+					}
+				]
+			]
+		]
 	}
 }
