@@ -113,12 +113,14 @@
 						"oralVore" : {"pred":true,"prey":true},
 						"analVore" : {"pred":true,"prey":true},
 						"cockVore" : {"pred":true,"prey":true},
+						"breastVore" : {"pred":false,"prey":false},
 						"unbirthVore" : {"pred":true,"prey":true},
 						"tailVore" : {"pred":true,"prey":true}
 					},
 					"infusePrefs" : {
 						"cockInfuse" : {"pred":true,"prey":true},
-						"pussyInfuse" : {"pred":true,"prey":true}
+						"pussyInfuse" : {"pred":true,"prey":true},
+						"breastInfuse" : {"pred":false,"prey":false}
 					}
 				}
 			},
@@ -132,7 +134,6 @@
 					"genderTF" : false,
 					"vorePrefs" : {
 						"absorbVore" : {"pred":false},
-						"breastVore" : {"pred":false,"prey":false},
 						"navelVore" : {"pred":false,"prey":false}
 					},
 					"infusePrefs" : {
